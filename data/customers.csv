@@ -1,0 +1,2475 @@
+customer_id,recency,frequency,monetary,country,R_score,F_score,M_score,RFM_score,segment
+CUST_10000,15,4,506.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10001,787,2,550.0,Canada,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_10002,179,5,497.0,Belgique,3,3,3,333,2. Clients Fidèles
+CUST_10003,140,2,117.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10004,76,6,770.0,France,4,4,4,444,1. Champions (VIP)
+CUST_10005,776,1,34.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10006,146,3,233.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10007,53,4,527.0,Suisse,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10008,171,3,264.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10009,138,3,194.0,Belgique,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10010,146,3,287.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10011,740,5,853.0,Canada,1,3,4,134,2. Clients Fidèles
+CUST_10012,449,2,230.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10013,171,6,957.0,France,3,4,5,345,2. Clients Fidèles
+CUST_10014,643,2,170.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10015,15,8,721.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10016,216,4,590.0,France,3,2,3,323,5. Clients Endormis / Perdus
+CUST_10017,41,4,680.0,France,5,2,4,524,3. Nouveaux / À Fort Potentiel
+CUST_10018,47,7,745.0,France,4,5,4,454,1. Champions (VIP)
+CUST_10019,413,6,776.0,France,1,4,4,144,2. Clients Fidèles
+CUST_10020,27,6,548.0,France,5,4,3,543,2. Clients Fidèles
+CUST_10021,375,6,1384.0,France,2,4,5,245,2. Clients Fidèles
+CUST_10022,144,7,655.0,France,3,5,4,354,2. Clients Fidèles
+CUST_10023,450,3,217.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10024,222,4,454.0,France,3,2,3,323,5. Clients Endormis / Perdus
+CUST_10025,458,6,767.0,Suisse,1,4,4,144,2. Clients Fidèles
+CUST_10026,572,3,187.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10027,341,2,87.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10028,23,4,422.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10029,480,5,690.0,France,1,3,4,134,2. Clients Fidèles
+CUST_10030,46,3,260.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10031,497,6,1190.0,France,1,4,5,145,2. Clients Fidèles
+CUST_10032,11,4,545.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10033,377,2,197.0,Canada,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10034,204,3,443.0,Canada,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10035,255,7,1010.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_10036,302,2,512.0,France,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10037,377,4,494.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10038,467,1,52.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10039,76,7,589.0,France,4,5,3,453,2. Clients Fidèles
+CUST_10040,2,7,491.0,France,5,5,3,553,2. Clients Fidèles
+CUST_10041,164,8,905.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10042,311,2,123.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10043,778,2,147.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10044,729,2,310.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10045,138,7,973.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_10046,476,4,469.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10047,34,4,457.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10048,699,1,68.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10049,223,2,200.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10050,1003,1,48.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10051,493,2,224.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10052,36,9,1117.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_10053,77,5,790.0,Luxembourg,4,3,4,434,2. Clients Fidèles
+CUST_10054,223,5,793.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10055,309,6,654.0,Canada,2,4,4,244,2. Clients Fidèles
+CUST_10056,251,3,231.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10057,15,7,1088.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10058,387,5,607.0,France,1,3,3,133,2. Clients Fidèles
+CUST_10059,375,6,1248.0,France,2,4,5,245,2. Clients Fidèles
+CUST_10060,24,5,489.0,France,5,3,3,533,2. Clients Fidèles
+CUST_10061,39,4,318.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10062,247,4,351.0,Suisse,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10063,61,6,536.0,France,4,4,3,443,2. Clients Fidèles
+CUST_10064,84,3,345.0,France,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10065,320,3,465.0,France,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10066,22,5,831.0,France,5,3,4,534,2. Clients Fidèles
+CUST_10067,262,3,752.0,Suisse,2,1,4,214,4. À Risque (À relancer d'urgence)
+CUST_10068,200,5,470.0,France,3,3,3,333,2. Clients Fidèles
+CUST_10069,137,9,952.0,Canada,3,5,5,355,2. Clients Fidèles
+CUST_10070,632,3,165.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10071,79,6,732.0,France,4,4,4,444,1. Champions (VIP)
+CUST_10072,646,4,518.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10073,52,6,779.0,Suisse,4,4,4,444,1. Champions (VIP)
+CUST_10074,200,3,367.0,Belgique,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10075,10,5,667.0,Belgique,5,3,4,534,2. Clients Fidèles
+CUST_10076,104,3,138.0,Suisse,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10077,825,1,48.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10078,32,3,244.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10079,16,7,1074.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10080,1,3,388.0,Suisse,5,1,2,512,3. Nouveaux / À Fort Potentiel
+CUST_10081,58,4,712.0,France,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10082,278,8,919.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10083,215,6,509.0,France,3,4,3,343,2. Clients Fidèles
+CUST_10084,330,6,803.0,France,2,4,4,244,2. Clients Fidèles
+CUST_10085,752,1,195.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10086,368,6,439.0,Belgique,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_10087,238,4,274.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10088,860,1,145.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10089,382,5,452.0,France,2,3,3,233,2. Clients Fidèles
+CUST_10091,128,5,388.0,Belgique,4,3,2,432,5. Clients Endormis / Perdus
+CUST_10092,330,2,250.0,Belgique,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10093,158,7,821.0,France,3,5,4,354,2. Clients Fidèles
+CUST_10094,225,4,1003.0,Suisse,3,2,5,325,5. Clients Endormis / Perdus
+CUST_10095,269,4,504.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10096,153,8,1440.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10097,45,6,938.0,France,4,4,5,445,1. Champions (VIP)
+CUST_10098,193,3,225.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10099,401,4,342.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10100,264,8,1727.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10101,147,8,804.0,France,3,5,4,354,2. Clients Fidèles
+CUST_10102,246,6,559.0,France,3,4,3,343,2. Clients Fidèles
+CUST_10103,277,5,1128.0,France,2,3,5,235,2. Clients Fidèles
+CUST_10104,101,1,104.0,Luxembourg,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10105,402,3,312.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10106,246,2,132.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10107,304,3,639.0,Belgique,2,1,4,214,4. À Risque (À relancer d'urgence)
+CUST_10108,90,4,358.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10109,112,5,903.0,France,4,3,5,435,2. Clients Fidèles
+CUST_10110,300,2,120.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10111,79,5,624.0,France,4,3,4,434,2. Clients Fidèles
+CUST_10112,11,7,834.0,Canada,5,5,4,554,1. Champions (VIP)
+CUST_10113,174,5,562.0,Suisse,3,3,3,333,2. Clients Fidèles
+CUST_10114,4,7,1399.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10115,20,5,943.0,Luxembourg,5,3,5,535,2. Clients Fidèles
+CUST_10116,34,5,548.0,Suisse,5,3,3,533,2. Clients Fidèles
+CUST_10117,220,3,233.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10118,58,6,888.0,Luxembourg,4,4,4,444,1. Champions (VIP)
+CUST_10119,386,9,1288.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10120,21,6,1195.0,Suisse,5,4,5,545,1. Champions (VIP)
+CUST_10121,3,5,528.0,Luxembourg,5,3,3,533,2. Clients Fidèles
+CUST_10122,198,7,818.0,France,3,5,4,354,2. Clients Fidèles
+CUST_10123,63,5,369.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_10124,39,7,757.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10125,781,1,32.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10126,228,5,762.0,Suisse,3,3,4,334,2. Clients Fidèles
+CUST_10127,133,7,609.0,Suisse,3,5,3,353,2. Clients Fidèles
+CUST_10128,327,4,1397.0,France,2,2,5,225,4. À Risque (À relancer d'urgence)
+CUST_10129,16,6,750.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10130,40,4,435.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10131,54,10,926.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10132,113,9,1219.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10133,405,3,250.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10134,4,6,651.0,Canada,5,4,4,544,1. Champions (VIP)
+CUST_10135,45,2,296.0,France,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10136,119,8,734.0,France,4,5,4,454,1. Champions (VIP)
+CUST_10137,11,4,309.0,Belgique,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10138,165,6,494.0,France,3,4,3,343,2. Clients Fidèles
+CUST_10139,239,6,499.0,Canada,3,4,3,343,2. Clients Fidèles
+CUST_10140,117,4,830.0,Canada,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10141,33,5,838.0,France,5,3,4,534,2. Clients Fidèles
+CUST_10142,44,6,417.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_10143,158,7,1347.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10144,197,7,840.0,France,3,5,4,354,2. Clients Fidèles
+CUST_10145,46,6,539.0,France,4,4,3,443,2. Clients Fidèles
+CUST_10146,309,6,767.0,France,2,4,4,244,2. Clients Fidèles
+CUST_10147,123,3,130.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10148,188,7,1682.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10149,219,5,402.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_10150,369,2,330.0,Luxembourg,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10151,161,1,115.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10152,276,5,644.0,France,2,3,4,234,2. Clients Fidèles
+CUST_10153,3,6,909.0,France,5,4,5,545,1. Champions (VIP)
+CUST_10154,582,3,178.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10155,270,4,489.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10156,106,6,422.0,Belgique,4,4,2,442,5. Clients Endormis / Perdus
+CUST_10157,234,5,336.0,Belgique,3,3,2,332,5. Clients Endormis / Perdus
+CUST_10158,32,7,544.0,France,5,5,3,553,2. Clients Fidèles
+CUST_10159,60,4,752.0,Belgique,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10160,313,3,248.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10161,286,5,664.0,France,2,3,4,234,2. Clients Fidèles
+CUST_10162,42,5,613.0,France,5,3,3,533,2. Clients Fidèles
+CUST_10163,47,8,1012.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10164,229,6,309.0,France,3,4,2,342,5. Clients Endormis / Perdus
+CUST_10165,271,8,912.0,Suisse,2,5,5,255,2. Clients Fidèles
+CUST_10166,182,5,897.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10167,148,4,819.0,France,3,2,4,324,5. Clients Endormis / Perdus
+CUST_10168,65,10,1259.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10169,233,3,222.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10170,45,2,123.0,Belgique,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10171,35,5,364.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_10172,188,7,1447.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10173,313,5,589.0,France,2,3,3,233,2. Clients Fidèles
+CUST_10174,2,5,843.0,France,5,3,4,534,2. Clients Fidèles
+CUST_10175,92,5,322.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_10176,156,5,293.0,Belgique,3,3,2,332,5. Clients Endormis / Perdus
+CUST_10177,247,2,128.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10178,70,5,758.0,Canada,4,3,4,434,2. Clients Fidèles
+CUST_10179,391,3,345.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10180,371,7,1360.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10181,218,3,823.0,France,3,1,4,314,5. Clients Endormis / Perdus
+CUST_10182,118,3,343.0,Canada,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10183,744,3,520.0,Luxembourg,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_10184,157,4,306.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10185,27,4,908.0,Belgique,5,2,5,525,3. Nouveaux / À Fort Potentiel
+CUST_10186,254,3,442.0,Suisse,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10187,148,6,1446.0,France,3,4,5,345,2. Clients Fidèles
+CUST_10188,25,4,530.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10189,163,5,405.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_10190,209,4,946.0,France,3,2,5,325,5. Clients Endormis / Perdus
+CUST_10191,84,4,1350.0,Luxembourg,4,2,5,425,3. Nouveaux / À Fort Potentiel
+CUST_10192,377,3,264.0,Luxembourg,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10193,153,6,683.0,France,3,4,4,344,2. Clients Fidèles
+CUST_10194,398,2,272.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10195,72,6,1205.0,France,4,4,5,445,1. Champions (VIP)
+CUST_10196,169,8,991.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_10197,419,5,805.0,Luxembourg,1,3,4,134,2. Clients Fidèles
+CUST_10198,59,8,1293.0,Luxembourg,4,5,5,455,1. Champions (VIP)
+CUST_10199,72,4,305.0,Suisse,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10200,63,3,284.0,France,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10201,83,8,888.0,France,4,5,4,454,1. Champions (VIP)
+CUST_10202,779,4,459.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10203,377,2,275.0,Luxembourg,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10204,907,3,388.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10205,307,4,270.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_10206,318,5,398.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_10207,368,2,483.0,Belgique,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10208,203,5,440.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_10209,325,4,315.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10210,443,6,922.0,France,1,4,5,145,2. Clients Fidèles
+CUST_10211,197,4,293.0,Belgique,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10212,475,1,115.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10213,67,8,559.0,France,4,5,3,453,2. Clients Fidèles
+CUST_10214,703,1,34.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10215,302,2,70.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10216,347,5,544.0,France,2,3,3,233,2. Clients Fidèles
+CUST_10217,37,5,572.0,Belgique,5,3,3,533,2. Clients Fidèles
+CUST_10218,359,2,124.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10219,22,4,505.0,Suisse,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10220,272,4,397.0,Belgique,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10221,54,4,604.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10222,399,2,211.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10223,192,3,303.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10224,24,4,497.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10225,491,2,86.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10226,21,4,613.0,Canada,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10227,31,6,835.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10228,320,2,70.0,Luxembourg,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10229,246,5,404.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_10230,383,4,331.0,Suisse,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10231,82,2,159.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10232,829,2,465.0,France,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_10233,13,6,504.0,France,5,4,3,543,2. Clients Fidèles
+CUST_10234,550,3,374.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10235,528,1,435.0,Belgique,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10236,146,7,1042.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10237,314,4,513.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10238,160,6,492.0,France,3,4,3,343,2. Clients Fidèles
+CUST_10239,386,2,212.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10240,444,6,975.0,Canada,1,4,5,145,2. Clients Fidèles
+CUST_10241,316,7,507.0,Canada,2,5,3,253,2. Clients Fidèles
+CUST_10242,3,4,262.0,Luxembourg,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10243,72,5,689.0,France,4,3,4,434,2. Clients Fidèles
+CUST_10244,172,4,435.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10245,84,4,595.0,Canada,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10246,79,6,1286.0,France,4,4,5,445,1. Champions (VIP)
+CUST_10247,403,3,470.0,Canada,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_10248,248,3,181.0,Canada,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10249,31,5,472.0,Suisse,5,3,3,533,2. Clients Fidèles
+CUST_10250,118,7,483.0,France,4,5,3,453,2. Clients Fidèles
+CUST_10251,812,4,350.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10252,537,7,1015.0,Suisse,1,5,5,155,2. Clients Fidèles
+CUST_10253,185,3,187.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10254,85,4,504.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10255,414,2,315.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10256,718,5,496.0,Canada,1,3,3,133,2. Clients Fidèles
+CUST_10257,515,3,267.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10258,320,4,745.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10259,128,3,204.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10260,57,4,387.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10261,350,4,536.0,Canada,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10262,369,6,644.0,France,2,4,4,244,2. Clients Fidèles
+CUST_10263,56,2,328.0,France,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10264,103,8,1001.0,Luxembourg,4,5,5,455,1. Champions (VIP)
+CUST_10265,315,3,413.0,Belgique,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10266,238,3,615.0,Belgique,3,1,3,313,5. Clients Endormis / Perdus
+CUST_10267,680,4,295.0,Belgique,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10268,386,2,64.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10269,374,6,841.0,France,2,4,4,244,2. Clients Fidèles
+CUST_10270,526,2,485.0,Suisse,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_10271,186,4,475.0,Suisse,3,2,3,323,5. Clients Endormis / Perdus
+CUST_10272,4,6,672.0,Suisse,5,4,4,544,1. Champions (VIP)
+CUST_10273,326,4,752.0,Luxembourg,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10274,416,1,55.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10275,208,5,468.0,France,3,3,3,333,2. Clients Fidèles
+CUST_10276,20,8,626.0,Suisse,5,5,4,554,1. Champions (VIP)
+CUST_10277,22,4,429.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10278,129,5,785.0,Belgique,3,3,4,334,2. Clients Fidèles
+CUST_10279,524,4,332.0,Suisse,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10280,37,1,115.0,Luxembourg,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10281,384,4,422.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10282,157,2,228.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10283,90,4,442.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10284,22,5,496.0,France,5,3,3,533,2. Clients Fidèles
+CUST_10285,400,3,298.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10286,460,1,195.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10287,389,9,953.0,France,1,5,5,155,2. Clients Fidèles
+CUST_10288,329,7,860.0,France,2,5,4,254,2. Clients Fidèles
+CUST_10289,123,7,517.0,France,4,5,3,453,2. Clients Fidèles
+CUST_10290,355,2,370.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10291,196,5,711.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10292,282,4,479.0,Suisse,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10293,81,3,297.0,France,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10294,450,4,471.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10295,282,3,374.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10296,330,9,728.0,Belgique,2,5,4,254,2. Clients Fidèles
+CUST_10297,21,3,318.0,France,5,1,2,512,3. Nouveaux / À Fort Potentiel
+CUST_10298,115,6,1128.0,France,4,4,5,445,1. Champions (VIP)
+CUST_10299,36,6,499.0,France,5,4,3,543,2. Clients Fidèles
+CUST_10300,39,11,1777.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10301,574,3,238.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10302,413,4,361.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10303,326,5,482.0,France,2,3,3,233,2. Clients Fidèles
+CUST_10304,8,9,1783.0,Belgique,5,5,5,555,1. Champions (VIP)
+CUST_10305,518,6,1082.0,Canada,1,4,5,145,2. Clients Fidèles
+CUST_10306,7,8,853.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10307,136,3,425.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10309,132,7,1097.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10310,368,6,582.0,France,2,4,3,243,2. Clients Fidèles
+CUST_10311,575,4,732.0,France,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_10312,228,6,600.0,France,3,4,3,343,2. Clients Fidèles
+CUST_10313,738,3,208.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10314,50,5,512.0,Suisse,4,3,3,433,2. Clients Fidèles
+CUST_10315,53,3,694.0,Belgique,4,1,4,414,3. Nouveaux / À Fort Potentiel
+CUST_10316,362,6,472.0,France,2,4,3,243,2. Clients Fidèles
+CUST_10317,87,4,479.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10318,340,3,308.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10319,42,4,486.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10320,248,7,903.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10321,195,2,405.0,Belgique,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10322,11,7,505.0,Belgique,5,5,3,553,2. Clients Fidèles
+CUST_10323,581,4,383.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10324,313,3,483.0,Canada,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10326,317,4,552.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10327,541,4,584.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10328,696,2,571.0,France,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_10329,26,6,854.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10330,128,3,256.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10331,119,4,822.0,Belgique,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10332,420,3,264.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10333,13,4,214.0,France,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10334,100,5,825.0,France,4,3,4,434,2. Clients Fidèles
+CUST_10335,39,4,404.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10336,764,2,208.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10337,57,4,786.0,Belgique,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10338,3,2,156.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10339,663,2,116.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10340,332,3,962.0,France,2,1,5,215,4. À Risque (À relancer d'urgence)
+CUST_10341,48,7,1159.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10342,327,6,916.0,France,2,4,5,245,2. Clients Fidèles
+CUST_10343,174,7,1382.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10344,159,6,686.0,France,3,4,4,344,2. Clients Fidèles
+CUST_10345,78,8,589.0,France,4,5,3,453,2. Clients Fidèles
+CUST_10346,308,4,442.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10347,405,5,620.0,France,1,3,3,133,2. Clients Fidèles
+CUST_10348,266,5,406.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_10349,373,2,84.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10350,211,5,1205.0,France,3,3,5,335,2. Clients Fidèles
+CUST_10351,404,2,255.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10352,318,6,441.0,Belgique,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_10353,258,6,826.0,France,2,4,4,244,2. Clients Fidèles
+CUST_10354,263,7,803.0,France,2,5,4,254,2. Clients Fidèles
+CUST_10355,191,3,662.0,France,3,1,4,314,5. Clients Endormis / Perdus
+CUST_10356,26,9,1132.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10357,143,3,647.0,France,3,1,4,314,5. Clients Endormis / Perdus
+CUST_10358,15,6,533.0,Canada,5,4,3,543,2. Clients Fidèles
+CUST_10359,12,6,767.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10360,13,3,255.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10361,26,6,885.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10362,695,2,281.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10363,419,5,822.0,France,1,3,4,134,2. Clients Fidèles
+CUST_10364,230,5,1491.0,Canada,3,3,5,335,2. Clients Fidèles
+CUST_10365,16,4,1235.0,France,5,2,5,525,3. Nouveaux / À Fort Potentiel
+CUST_10366,561,2,86.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10367,435,4,385.0,Luxembourg,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10368,230,5,851.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10369,252,6,718.0,France,3,4,4,344,2. Clients Fidèles
+CUST_10370,380,3,383.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10371,390,6,866.0,France,1,4,4,144,2. Clients Fidèles
+CUST_10372,584,3,276.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10373,39,4,415.0,Belgique,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10374,48,3,170.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10375,565,4,345.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10376,279,5,597.0,Suisse,2,3,3,233,2. Clients Fidèles
+CUST_10377,25,6,707.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10378,105,6,887.0,Suisse,4,4,4,444,1. Champions (VIP)
+CUST_10379,294,2,189.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10380,207,9,934.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10381,559,2,565.0,Belgique,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_10382,426,9,1187.0,France,1,5,5,155,2. Clients Fidèles
+CUST_10383,92,5,698.0,Luxembourg,4,3,4,434,2. Clients Fidèles
+CUST_10384,1058,1,165.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10385,16,4,604.0,Suisse,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10386,49,4,397.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10388,122,8,796.0,Belgique,4,5,4,454,1. Champions (VIP)
+CUST_10389,25,5,530.0,Suisse,5,3,3,533,2. Clients Fidèles
+CUST_10390,203,5,474.0,Canada,3,3,3,333,2. Clients Fidèles
+CUST_10391,5,6,649.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10392,878,1,145.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10393,81,5,349.0,Suisse,4,3,2,432,5. Clients Endormis / Perdus
+CUST_10394,90,7,1022.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10395,92,2,192.0,Canada,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10396,331,3,480.0,Suisse,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10397,80,3,420.0,France,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10398,46,4,590.0,Belgique,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10399,297,5,901.0,Belgique,2,3,5,235,2. Clients Fidèles
+CUST_10400,493,3,247.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10401,25,3,1098.0,Luxembourg,5,1,5,515,3. Nouveaux / À Fort Potentiel
+CUST_10402,683,2,985.0,France,1,1,5,115,4. À Risque (À relancer d'urgence)
+CUST_10403,119,6,910.0,Suisse,4,4,5,445,1. Champions (VIP)
+CUST_10404,386,4,576.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10405,175,3,811.0,Luxembourg,3,1,4,314,5. Clients Endormis / Perdus
+CUST_10406,384,3,527.0,France,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10407,123,7,688.0,France,4,5,4,454,1. Champions (VIP)
+CUST_10408,397,3,282.0,Luxembourg,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10409,11,5,733.0,France,5,3,4,534,2. Clients Fidèles
+CUST_10410,114,5,1067.0,France,4,3,5,435,2. Clients Fidèles
+CUST_10411,2,7,793.0,Canada,5,5,4,554,1. Champions (VIP)
+CUST_10412,383,2,250.0,Canada,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10413,679,2,189.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10414,265,4,475.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10415,31,7,554.0,France,5,5,3,553,2. Clients Fidèles
+CUST_10416,708,2,204.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10417,18,4,579.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10418,365,3,354.0,Belgique,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10419,206,6,1028.0,Belgique,3,4,5,345,2. Clients Fidèles
+CUST_10420,33,9,955.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_10421,372,2,514.0,Suisse,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10422,694,2,170.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10423,78,2,163.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10424,323,4,391.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10425,803,5,571.0,France,1,3,3,133,2. Clients Fidèles
+CUST_10426,321,5,616.0,France,2,3,3,233,2. Clients Fidèles
+CUST_10427,910,1,160.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10428,214,8,1513.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10429,179,2,161.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10430,407,2,151.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10431,42,5,697.0,Belgique,5,3,4,534,2. Clients Fidèles
+CUST_10432,44,6,1051.0,France,4,4,5,445,1. Champions (VIP)
+CUST_10433,34,7,883.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10434,28,4,513.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10435,227,6,1052.0,Belgique,3,4,5,345,2. Clients Fidèles
+CUST_10436,59,5,1040.0,France,4,3,5,435,2. Clients Fidèles
+CUST_10437,17,5,832.0,Suisse,5,3,4,534,2. Clients Fidèles
+CUST_10438,53,7,605.0,Belgique,4,5,3,453,2. Clients Fidèles
+CUST_10439,380,3,695.0,France,2,1,4,214,4. À Risque (À relancer d'urgence)
+CUST_10440,167,2,68.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10441,546,4,467.0,Canada,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10442,32,6,693.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10443,647,1,55.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10444,543,4,707.0,Suisse,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_10445,16,6,417.0,Canada,5,4,2,542,5. Clients Endormis / Perdus
+CUST_10446,322,5,303.0,Canada,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_10447,327,5,615.0,Belgique,2,3,3,233,2. Clients Fidèles
+CUST_10448,186,4,269.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10449,210,6,346.0,France,3,4,2,342,5. Clients Endormis / Perdus
+CUST_10450,210,3,613.0,Suisse,3,1,3,313,5. Clients Endormis / Perdus
+CUST_10451,43,5,535.0,France,5,3,3,533,2. Clients Fidèles
+CUST_10452,146,7,1819.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10453,37,3,440.0,Luxembourg,5,1,2,512,3. Nouveaux / À Fort Potentiel
+CUST_10454,118,8,1674.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10455,11,2,170.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10456,333,4,289.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10457,236,3,374.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10458,34,4,494.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10459,100,5,520.0,France,4,3,3,433,2. Clients Fidèles
+CUST_10460,232,3,281.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10461,10,8,1771.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10462,197,3,234.0,Belgique,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10463,324,5,426.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_10464,114,4,423.0,Canada,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10465,128,8,778.0,France,4,5,4,454,1. Champions (VIP)
+CUST_10466,144,6,753.0,France,3,4,4,344,2. Clients Fidèles
+CUST_10467,47,7,1483.0,Suisse,4,5,5,455,1. Champions (VIP)
+CUST_10468,162,3,346.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10469,174,5,474.0,Canada,3,3,3,333,2. Clients Fidèles
+CUST_10470,39,6,524.0,France,5,4,3,543,2. Clients Fidèles
+CUST_10471,324,2,460.0,Canada,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10472,265,6,950.0,France,2,4,5,245,2. Clients Fidèles
+CUST_10473,109,5,615.0,Luxembourg,4,3,3,433,2. Clients Fidèles
+CUST_10474,11,11,1300.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10475,65,7,658.0,Canada,4,5,4,454,1. Champions (VIP)
+CUST_10476,114,3,515.0,France,4,1,3,413,3. Nouveaux / À Fort Potentiel
+CUST_10477,377,4,799.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10478,218,6,482.0,Canada,3,4,3,343,2. Clients Fidèles
+CUST_10479,14,1,230.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10480,356,6,695.0,France,2,4,4,244,2. Clients Fidèles
+CUST_10481,19,7,647.0,Belgique,5,5,4,554,1. Champions (VIP)
+CUST_10482,74,7,731.0,France,4,5,4,454,1. Champions (VIP)
+CUST_10483,171,4,348.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10484,71,7,1341.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10485,1049,1,52.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10486,10,4,373.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10487,185,5,217.0,France,3,3,1,331,5. Clients Endormis / Perdus
+CUST_10488,14,6,609.0,Canada,5,4,3,543,2. Clients Fidèles
+CUST_10489,499,1,290.0,Luxembourg,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10490,49,5,264.0,France,4,3,1,431,5. Clients Endormis / Perdus
+CUST_10491,44,7,1026.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10492,312,8,1140.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10493,145,2,357.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10494,12,4,280.0,France,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10495,404,3,365.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10496,319,4,462.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10497,292,4,312.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10498,631,2,226.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10499,16,10,1115.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_10500,19,6,537.0,Belgique,5,4,3,543,2. Clients Fidèles
+CUST_10501,298,8,1563.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10502,640,3,185.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10503,186,7,996.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_10504,36,9,998.0,Belgique,5,5,5,555,1. Champions (VIP)
+CUST_10505,88,6,1088.0,France,4,4,5,445,1. Champions (VIP)
+CUST_10506,131,7,1296.0,Luxembourg,3,5,5,355,2. Clients Fidèles
+CUST_10507,915,1,204.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10508,727,3,491.0,Canada,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_10509,43,4,317.0,Belgique,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10510,655,4,514.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10511,305,2,189.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10512,263,6,628.0,Canada,2,4,4,244,2. Clients Fidèles
+CUST_10513,123,3,339.0,Suisse,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10514,212,5,461.0,France,3,3,3,333,2. Clients Fidèles
+CUST_10515,62,3,330.0,France,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10516,667,3,158.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10517,11,9,1091.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_10518,228,4,647.0,Canada,3,2,4,324,5. Clients Endormis / Perdus
+CUST_10519,34,5,358.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_10520,310,3,264.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10521,327,4,722.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10522,411,3,306.0,Canada,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10523,133,7,937.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_10524,2,7,1040.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_10525,305,8,1073.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10526,64,4,1018.0,France,4,2,5,425,3. Nouveaux / À Fort Potentiel
+CUST_10527,308,3,440.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10528,365,4,645.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10529,25,7,1156.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_10530,20,7,664.0,Suisse,5,5,4,554,1. Champions (VIP)
+CUST_10531,17,7,691.0,Canada,5,5,4,554,1. Champions (VIP)
+CUST_10532,676,3,1190.0,Canada,1,1,5,115,4. À Risque (À relancer d'urgence)
+CUST_10533,133,5,800.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10534,112,2,86.0,Belgique,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10535,142,7,663.0,Canada,3,5,4,354,2. Clients Fidèles
+CUST_10536,4,4,805.0,Suisse,5,2,4,524,3. Nouveaux / À Fort Potentiel
+CUST_10537,562,5,259.0,France,1,3,1,131,4. À Risque (À relancer d'urgence)
+CUST_10538,261,3,524.0,France,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10539,277,5,510.0,France,2,3,3,233,2. Clients Fidèles
+CUST_10540,437,4,734.0,Canada,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_10541,399,4,947.0,France,1,2,5,125,4. À Risque (À relancer d'urgence)
+CUST_10542,201,5,1490.0,France,3,3,5,335,2. Clients Fidèles
+CUST_10543,371,4,429.0,Belgique,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10544,358,3,704.0,France,2,1,4,214,4. À Risque (À relancer d'urgence)
+CUST_10545,366,5,1011.0,France,2,3,5,235,2. Clients Fidèles
+CUST_10546,8,4,538.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10547,20,4,491.0,Belgique,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10548,45,8,1335.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10549,429,4,270.0,Suisse,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10550,294,5,571.0,France,2,3,3,233,2. Clients Fidèles
+CUST_10551,745,1,32.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10552,159,7,553.0,France,3,5,3,353,2. Clients Fidèles
+CUST_10553,642,2,140.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10554,85,3,304.0,Luxembourg,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10555,11,3,118.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10556,1,4,332.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10557,12,5,560.0,France,5,3,3,533,2. Clients Fidèles
+CUST_10558,232,6,650.0,Belgique,3,4,4,344,2. Clients Fidèles
+CUST_10559,628,5,848.0,France,1,3,4,134,2. Clients Fidèles
+CUST_10560,225,7,514.0,Belgique,3,5,3,353,2. Clients Fidèles
+CUST_10561,18,10,2143.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10562,383,4,386.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10563,101,4,428.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10564,36,2,259.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10565,341,6,1085.0,France,2,4,5,245,2. Clients Fidèles
+CUST_10567,213,5,716.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10568,424,11,1047.0,Luxembourg,1,5,5,155,2. Clients Fidèles
+CUST_10569,46,6,585.0,France,4,4,3,443,2. Clients Fidèles
+CUST_10570,769,3,273.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10571,242,7,1251.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_10572,64,2,76.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10573,323,2,305.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10574,76,5,424.0,Suisse,4,3,2,432,5. Clients Endormis / Perdus
+CUST_10575,20,4,477.0,Canada,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10576,436,2,296.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10577,558,3,293.0,Canada,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10578,22,6,691.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10579,18,2,250.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10580,275,3,171.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10581,366,5,1863.0,Canada,2,3,5,235,2. Clients Fidèles
+CUST_10582,48,5,957.0,France,4,3,5,435,2. Clients Fidèles
+CUST_10583,734,2,102.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10584,188,2,142.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10585,205,2,354.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10586,37,2,322.0,France,5,1,2,512,3. Nouveaux / À Fort Potentiel
+CUST_10587,416,2,275.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10588,518,3,382.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10589,19,6,899.0,France,5,4,5,545,1. Champions (VIP)
+CUST_10590,180,3,364.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_10591,402,7,1175.0,France,1,5,5,155,2. Clients Fidèles
+CUST_10592,306,8,1221.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10593,57,5,261.0,France,4,3,1,431,5. Clients Endormis / Perdus
+CUST_10594,411,4,444.0,Luxembourg,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10595,599,1,460.0,France,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_10596,38,8,616.0,Belgique,5,5,3,553,2. Clients Fidèles
+CUST_10597,9,3,301.0,France,5,1,2,512,3. Nouveaux / À Fort Potentiel
+CUST_10598,524,4,795.0,France,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_10599,269,3,456.0,France,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10600,39,7,1364.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10601,313,4,370.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10602,306,6,783.0,France,2,4,4,244,2. Clients Fidèles
+CUST_10603,21,7,600.0,France,5,5,3,553,2. Clients Fidèles
+CUST_10604,90,5,536.0,France,4,3,3,433,2. Clients Fidèles
+CUST_10605,244,4,261.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10606,787,2,167.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10607,233,2,245.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10608,654,2,445.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10609,32,5,277.0,Belgique,5,3,1,531,5. Clients Endormis / Perdus
+CUST_10610,5,4,382.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10611,9,10,1054.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_10612,18,8,1153.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10613,7,6,1398.0,France,5,4,5,545,1. Champions (VIP)
+CUST_10614,76,2,200.0,Luxembourg,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10615,2,12,1239.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_10616,25,2,383.0,France,5,1,2,512,3. Nouveaux / À Fort Potentiel
+CUST_10617,181,4,208.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10618,77,7,794.0,Suisse,4,5,4,454,1. Champions (VIP)
+CUST_10619,620,3,821.0,Belgique,1,1,4,114,4. À Risque (À relancer d'urgence)
+CUST_10620,402,3,890.0,France,1,1,4,114,4. À Risque (À relancer d'urgence)
+CUST_10621,47,5,883.0,France,4,3,4,434,2. Clients Fidèles
+CUST_10622,540,4,516.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10623,89,5,1015.0,France,4,3,5,435,2. Clients Fidèles
+CUST_10624,9,5,452.0,France,5,3,3,533,2. Clients Fidèles
+CUST_10625,57,6,593.0,France,4,4,3,443,2. Clients Fidèles
+CUST_10626,950,1,320.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10627,100,4,647.0,Belgique,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10628,18,4,1018.0,France,5,2,5,525,3. Nouveaux / À Fort Potentiel
+CUST_10629,49,6,540.0,France,4,4,3,443,2. Clients Fidèles
+CUST_10630,368,3,155.0,Belgique,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10631,39,5,674.0,Luxembourg,5,3,4,534,2. Clients Fidèles
+CUST_10632,83,4,242.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_10633,726,1,48.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10634,376,5,420.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_10635,199,3,465.0,France,3,1,3,313,5. Clients Endormis / Perdus
+CUST_10636,92,4,758.0,France,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10637,811,1,115.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10638,9,4,608.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10639,17,3,206.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10640,381,6,586.0,France,2,4,3,243,2. Clients Fidèles
+CUST_10641,31,4,452.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10642,31,5,429.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_10643,236,4,647.0,France,3,2,4,324,5. Clients Endormis / Perdus
+CUST_10644,361,4,333.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10645,386,6,935.0,Luxembourg,2,4,5,245,2. Clients Fidèles
+CUST_10646,312,3,312.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10647,403,6,600.0,Belgique,1,4,3,143,2. Clients Fidèles
+CUST_10648,124,3,410.0,Suisse,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10649,113,3,168.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_10650,114,2,204.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10651,986,1,230.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10652,215,3,890.0,France,3,2,4,324,5. Clients Endormis / Perdus
+CUST_10653,312,7,833.0,Belgique,2,5,4,254,2. Clients Fidèles
+CUST_10654,260,5,1068.0,France,2,3,5,235,2. Clients Fidèles
+CUST_10655,7,4,601.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10656,289,6,898.0,France,2,4,5,245,2. Clients Fidèles
+CUST_10657,179,5,401.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_10658,990,1,195.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10659,157,3,206.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10660,489,5,689.0,France,1,3,4,134,2. Clients Fidèles
+CUST_10661,32,7,890.0,Canada,5,5,4,554,1. Champions (VIP)
+CUST_10662,351,6,622.0,France,2,4,4,244,2. Clients Fidèles
+CUST_10663,152,5,1020.0,France,3,3,5,335,2. Clients Fidèles
+CUST_10664,308,8,1184.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10665,310,1,104.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10666,106,7,1321.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10667,101,8,495.0,France,4,5,3,453,2. Clients Fidèles
+CUST_10668,50,6,561.0,France,4,4,3,443,2. Clients Fidèles
+CUST_10669,35,4,397.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10670,76,5,900.0,France,4,3,5,435,2. Clients Fidèles
+CUST_10671,24,8,990.0,Luxembourg,5,5,5,555,1. Champions (VIP)
+CUST_10672,364,6,485.0,France,2,4,3,243,2. Clients Fidèles
+CUST_10673,349,7,692.0,France,2,5,4,254,2. Clients Fidèles
+CUST_10674,162,4,324.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10675,409,2,138.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10676,308,2,520.0,France,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_10677,386,5,1236.0,France,2,3,5,235,2. Clients Fidèles
+CUST_10678,146,8,1048.0,Canada,3,5,5,355,2. Clients Fidèles
+CUST_10679,662,5,446.0,Suisse,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_10680,391,4,609.0,Suisse,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10681,326,4,562.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10682,172,4,627.0,France,3,2,4,324,5. Clients Endormis / Perdus
+CUST_10683,309,6,1199.0,Belgique,2,4,5,245,2. Clients Fidèles
+CUST_10684,259,4,250.0,Canada,2,2,1,221,5. Clients Endormis / Perdus
+CUST_10685,392,4,191.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10686,143,3,246.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10687,522,3,248.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10688,354,5,432.0,Belgique,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_10689,8,1,115.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10690,34,5,695.0,France,5,3,4,534,2. Clients Fidèles
+CUST_10691,28,2,86.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10692,307,7,1239.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10693,730,4,387.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10694,510,2,255.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10695,311,4,695.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10696,410,4,208.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10697,109,5,439.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_10698,129,7,896.0,France,3,5,4,354,2. Clients Fidèles
+CUST_10699,307,7,787.0,France,2,5,4,254,2. Clients Fidèles
+CUST_10701,433,3,427.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10703,379,3,187.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_10704,1,4,216.0,France,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10705,52,6,858.0,Canada,4,4,4,444,1. Champions (VIP)
+CUST_10706,283,4,495.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10707,148,3,301.0,Suisse,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10708,8,4,334.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10709,670,1,48.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10710,4,8,1180.0,Belgique,5,5,5,555,1. Champions (VIP)
+CUST_10711,402,2,144.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10712,196,6,706.0,France,3,4,4,344,2. Clients Fidèles
+CUST_10713,88,2,142.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10714,621,2,263.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10715,121,3,731.0,Canada,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10716,44,3,450.0,Suisse,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10717,12,2,192.0,Canada,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10718,66,5,731.0,France,4,3,4,434,2. Clients Fidèles
+CUST_10719,16,8,794.0,Belgique,5,5,4,554,1. Champions (VIP)
+CUST_10720,1013,1,110.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10721,282,1,48.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10722,1073,1,195.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10723,261,4,559.0,Belgique,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10724,530,6,1020.0,France,1,4,5,145,2. Clients Fidèles
+CUST_10725,247,6,878.0,Suisse,3,4,4,344,2. Clients Fidèles
+CUST_10726,116,5,1056.0,France,4,3,5,435,2. Clients Fidèles
+CUST_10727,12,7,834.0,Suisse,5,5,4,554,1. Champions (VIP)
+CUST_10728,205,2,263.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10729,2,8,1154.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10730,801,2,438.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10731,213,4,404.0,Suisse,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10732,414,6,1219.0,Belgique,1,4,5,145,2. Clients Fidèles
+CUST_10733,104,4,515.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10734,329,3,184.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_10735,110,4,468.0,Luxembourg,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10736,217,3,235.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10737,271,5,699.0,Suisse,2,3,4,234,2. Clients Fidèles
+CUST_10738,408,5,674.0,France,1,3,4,134,2. Clients Fidèles
+CUST_10739,188,3,234.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10740,247,1,160.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10741,162,1,64.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10742,40,3,337.0,Belgique,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10743,4,5,310.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_10744,396,5,602.0,France,1,3,3,133,2. Clients Fidèles
+CUST_10745,534,2,247.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10746,362,3,595.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10747,320,2,86.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10748,118,5,1680.0,Luxembourg,4,3,5,435,2. Clients Fidèles
+CUST_10749,104,3,615.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10750,24,6,794.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10751,19,3,138.0,Canada,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10752,138,5,526.0,France,3,3,3,333,2. Clients Fidèles
+CUST_10753,14,5,569.0,France,5,3,3,533,2. Clients Fidèles
+CUST_10754,36,4,389.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10755,496,5,779.0,Suisse,1,3,4,134,2. Clients Fidèles
+CUST_10756,90,11,1078.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10757,16,5,1319.0,France,5,3,5,535,2. Clients Fidèles
+CUST_10758,313,4,803.0,Luxembourg,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10759,404,4,429.0,Suisse,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10760,189,5,695.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10761,24,5,1012.0,France,5,3,5,535,2. Clients Fidèles
+CUST_10762,14,5,402.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_10763,27,5,993.0,Belgique,5,3,5,535,2. Clients Fidèles
+CUST_10764,342,1,160.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10765,411,4,428.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10766,18,4,451.0,Belgique,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10767,246,5,1032.0,Luxembourg,3,3,5,335,2. Clients Fidèles
+CUST_10768,446,1,76.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10769,51,4,428.0,Suisse,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10770,77,5,724.0,France,4,3,4,434,2. Clients Fidèles
+CUST_10771,304,2,426.0,Suisse,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10772,511,6,786.0,France,1,4,4,144,2. Clients Fidèles
+CUST_10773,50,6,830.0,France,4,4,4,444,1. Champions (VIP)
+CUST_10774,208,4,150.0,Suisse,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10775,103,7,1575.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10776,79,4,189.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_10777,1050,1,204.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10778,86,7,772.0,Belgique,4,5,4,454,1. Champions (VIP)
+CUST_10779,232,10,1340.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10780,42,5,474.0,Belgique,5,3,3,533,2. Clients Fidèles
+CUST_10781,664,3,378.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10782,18,4,323.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10783,397,5,818.0,France,1,3,4,134,2. Clients Fidèles
+CUST_10784,396,1,38.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10785,355,3,362.0,Luxembourg,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10786,466,2,100.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10787,440,3,148.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10788,221,7,576.0,France,3,5,3,353,2. Clients Fidèles
+CUST_10789,364,4,767.0,Canada,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10790,409,3,230.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10791,5,8,854.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10792,590,3,233.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10793,306,3,340.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10794,194,5,369.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_10795,226,3,560.0,Luxembourg,3,2,3,323,5. Clients Endormis / Perdus
+CUST_10796,391,3,245.0,Canada,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10797,170,5,828.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10798,24,4,968.0,Belgique,5,2,5,525,3. Nouveaux / À Fort Potentiel
+CUST_10799,55,4,292.0,Canada,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_10800,95,6,599.0,Belgique,4,4,3,443,2. Clients Fidèles
+CUST_10801,22,7,688.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10802,151,5,1538.0,France,3,3,5,335,2. Clients Fidèles
+CUST_10803,6,4,248.0,France,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10804,175,3,454.0,France,3,2,3,323,5. Clients Endormis / Perdus
+CUST_10805,28,6,526.0,Belgique,5,4,3,543,2. Clients Fidèles
+CUST_10806,119,3,251.0,Canada,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_10807,31,3,251.0,Canada,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10808,35,5,407.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_10809,35,7,615.0,France,5,5,3,553,2. Clients Fidèles
+CUST_10810,96,6,751.0,Canada,4,4,4,444,1. Champions (VIP)
+CUST_10811,406,3,328.0,Suisse,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10812,105,7,676.0,France,4,5,4,454,1. Champions (VIP)
+CUST_10813,412,2,290.0,Canada,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10814,25,5,1119.0,Suisse,5,3,5,535,2. Clients Fidèles
+CUST_10815,305,4,431.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10816,188,7,1202.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10817,46,5,907.0,France,4,3,5,435,2. Clients Fidèles
+CUST_10818,406,5,437.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_10819,314,3,788.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10820,134,3,676.0,Suisse,3,2,4,324,5. Clients Endormis / Perdus
+CUST_10821,220,6,988.0,France,3,4,5,345,2. Clients Fidèles
+CUST_10822,382,4,632.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10823,3,1,76.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_10824,406,2,207.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10825,18,3,425.0,Luxembourg,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10826,181,6,426.0,France,3,4,2,342,5. Clients Endormis / Perdus
+CUST_10827,417,6,1017.0,France,1,4,5,145,2. Clients Fidèles
+CUST_10828,204,4,373.0,Belgique,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10829,250,2,96.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10830,383,8,596.0,France,2,5,3,253,2. Clients Fidèles
+CUST_10831,23,5,347.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_10832,6,6,370.0,France,5,4,2,542,5. Clients Endormis / Perdus
+CUST_10833,202,4,610.0,France,3,2,3,323,5. Clients Endormis / Perdus
+CUST_10834,42,8,1013.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10835,2,8,960.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10836,50,6,949.0,Luxembourg,4,4,5,445,1. Champions (VIP)
+CUST_10837,696,1,145.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10838,610,3,336.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10839,333,5,905.0,France,2,3,5,235,2. Clients Fidèles
+CUST_10840,154,6,741.0,France,3,4,4,344,2. Clients Fidèles
+CUST_10841,721,3,176.0,Belgique,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10842,145,6,484.0,France,3,4,3,343,2. Clients Fidèles
+CUST_10843,521,5,381.0,Canada,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_10844,402,6,589.0,France,1,4,3,143,2. Clients Fidèles
+CUST_10845,25,5,676.0,France,5,3,4,534,2. Clients Fidèles
+CUST_10846,80,6,1068.0,France,4,4,5,445,1. Champions (VIP)
+CUST_10847,311,3,560.0,Canada,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10848,141,6,977.0,France,3,4,5,345,2. Clients Fidèles
+CUST_10849,398,7,587.0,France,1,5,3,153,2. Clients Fidèles
+CUST_10850,42,2,475.0,France,5,1,3,513,3. Nouveaux / À Fort Potentiel
+CUST_10851,241,4,331.0,Belgique,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10852,97,6,837.0,France,4,4,4,444,1. Champions (VIP)
+CUST_10853,133,5,380.0,Luxembourg,3,3,2,332,5. Clients Endormis / Perdus
+CUST_10854,169,5,623.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10855,92,3,146.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_10856,220,4,350.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10858,304,6,567.0,France,2,4,3,243,2. Clients Fidèles
+CUST_10859,31,5,526.0,France,5,3,3,533,2. Clients Fidèles
+CUST_10860,41,8,2057.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_10861,70,6,428.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_10862,90,5,460.0,France,4,3,3,433,2. Clients Fidèles
+CUST_10863,753,3,326.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10864,260,3,381.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10865,225,6,1203.0,France,3,4,5,345,2. Clients Fidèles
+CUST_10866,60,7,630.0,France,4,5,4,454,1. Champions (VIP)
+CUST_10867,50,6,1174.0,France,4,4,5,445,1. Champions (VIP)
+CUST_10868,770,2,358.0,Suisse,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10869,36,5,664.0,Canada,5,3,4,534,2. Clients Fidèles
+CUST_10870,124,6,900.0,France,4,4,5,445,1. Champions (VIP)
+CUST_10871,181,7,904.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10872,92,6,815.0,France,4,4,4,444,1. Champions (VIP)
+CUST_10873,264,4,536.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10874,2,5,1011.0,France,5,3,5,535,2. Clients Fidèles
+CUST_10875,404,6,463.0,France,1,4,3,143,2. Clients Fidèles
+CUST_10876,285,6,1047.0,Belgique,2,4,5,245,2. Clients Fidèles
+CUST_10877,9,4,484.0,Belgique,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10878,166,7,775.0,France,3,5,4,354,2. Clients Fidèles
+CUST_10879,299,5,938.0,France,2,3,5,235,2. Clients Fidèles
+CUST_10880,575,4,628.0,France,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_10881,536,5,726.0,Belgique,1,3,4,134,2. Clients Fidèles
+CUST_10882,20,5,654.0,France,5,3,4,534,2. Clients Fidèles
+CUST_10883,631,2,268.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10884,300,5,564.0,Suisse,2,3,3,233,2. Clients Fidèles
+CUST_10885,15,9,885.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10886,121,7,2202.0,Belgique,4,5,5,455,1. Champions (VIP)
+CUST_10887,39,12,1539.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10888,44,9,879.0,France,4,5,4,454,1. Champions (VIP)
+CUST_10889,303,7,503.0,France,2,5,3,253,2. Clients Fidèles
+CUST_10890,22,3,362.0,Belgique,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10891,8,5,779.0,Suisse,5,3,4,534,2. Clients Fidèles
+CUST_10893,513,3,225.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10894,51,4,851.0,Belgique,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10895,13,9,756.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10896,397,3,197.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10897,178,3,974.0,Luxembourg,3,2,5,325,5. Clients Endormis / Perdus
+CUST_10898,255,5,623.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10899,398,5,426.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_10900,432,1,38.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10901,5,6,481.0,France,5,4,3,543,2. Clients Fidèles
+CUST_10902,69,7,1134.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10903,593,1,48.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10904,47,2,208.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10905,253,4,487.0,Luxembourg,3,2,3,323,5. Clients Endormis / Perdus
+CUST_10906,240,3,655.0,Suisse,3,2,4,324,5. Clients Endormis / Perdus
+CUST_10907,312,4,662.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10908,48,5,547.0,France,4,3,3,433,2. Clients Fidèles
+CUST_10909,673,5,947.0,France,1,3,5,135,2. Clients Fidèles
+CUST_10910,20,9,771.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10911,112,4,454.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10912,41,11,1346.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10913,35,4,290.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10914,57,10,970.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10915,124,1,290.0,France,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_10916,331,4,452.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_10917,104,5,421.0,Canada,4,3,2,432,5. Clients Endormis / Perdus
+CUST_10918,22,4,176.0,Belgique,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10919,144,6,448.0,France,3,4,2,342,5. Clients Endormis / Perdus
+CUST_10920,93,4,758.0,Suisse,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10921,405,8,1768.0,France,1,5,5,155,2. Clients Fidèles
+CUST_10922,52,1,160.0,Luxembourg,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10923,124,4,175.0,Suisse,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_10924,39,9,1597.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10925,24,3,272.0,France,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10926,10,5,984.0,France,5,3,5,535,2. Clients Fidèles
+CUST_10927,19,6,678.0,France,5,4,4,544,1. Champions (VIP)
+CUST_10928,66,8,1039.0,France,4,5,5,455,1. Champions (VIP)
+CUST_10929,236,3,695.0,France,3,2,4,324,5. Clients Endormis / Perdus
+CUST_10930,374,5,419.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_10931,306,3,984.0,Suisse,2,2,5,225,4. À Risque (À relancer d'urgence)
+CUST_10933,319,4,715.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_10934,672,3,602.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10935,249,2,260.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10936,1011,1,55.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10937,315,5,960.0,Luxembourg,2,3,5,235,2. Clients Fidèles
+CUST_10938,488,5,334.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_10939,140,5,893.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10940,210,3,618.0,France,3,2,3,323,5. Clients Endormis / Perdus
+CUST_10941,151,7,1026.0,France,3,5,5,355,2. Clients Fidèles
+CUST_10942,23,6,851.0,Belgique,5,4,4,544,1. Champions (VIP)
+CUST_10943,45,2,275.0,Suisse,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_10944,31,7,618.0,France,5,5,3,553,2. Clients Fidèles
+CUST_10945,54,4,655.0,France,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_10946,101,3,510.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_10947,417,3,584.0,Luxembourg,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_10948,37,3,485.0,Luxembourg,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_10949,79,6,634.0,France,4,4,4,444,1. Champions (VIP)
+CUST_10950,415,4,324.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_10951,22,3,264.0,Belgique,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_10952,281,9,1494.0,France,2,5,5,255,2. Clients Fidèles
+CUST_10953,316,2,324.0,Luxembourg,2,1,2,212,5. Clients Endormis / Perdus
+CUST_10954,16,8,635.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10955,36,4,690.0,France,5,2,4,524,3. Nouveaux / À Fort Potentiel
+CUST_10956,46,5,745.0,France,4,3,4,434,2. Clients Fidèles
+CUST_10957,121,4,242.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_10958,45,6,880.0,France,4,4,4,444,1. Champions (VIP)
+CUST_10959,383,5,573.0,Belgique,2,3,3,233,2. Clients Fidèles
+CUST_10960,415,5,770.0,France,1,3,4,134,2. Clients Fidèles
+CUST_10961,312,3,325.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10962,384,2,144.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_10963,332,5,370.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_10964,150,3,158.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_10965,237,6,680.0,France,3,4,4,344,2. Clients Fidèles
+CUST_10966,265,11,1491.0,Belgique,2,5,5,255,2. Clients Fidèles
+CUST_10967,276,6,460.0,France,2,4,3,243,2. Clients Fidèles
+CUST_10968,125,6,793.0,France,4,4,4,444,1. Champions (VIP)
+CUST_10969,743,4,195.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_10970,10,3,409.0,Belgique,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10971,14,5,750.0,Canada,5,3,4,534,2. Clients Fidèles
+CUST_10972,198,2,93.0,Belgique,3,1,1,311,5. Clients Endormis / Perdus
+CUST_10973,165,6,690.0,France,3,4,4,344,2. Clients Fidèles
+CUST_10974,388,7,1070.0,France,1,5,5,155,2. Clients Fidèles
+CUST_10975,167,4,762.0,France,3,2,4,324,5. Clients Endormis / Perdus
+CUST_10976,446,5,491.0,France,1,3,3,133,2. Clients Fidèles
+CUST_10977,37,4,1083.0,France,5,2,5,525,3. Nouveaux / À Fort Potentiel
+CUST_10978,306,4,426.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_10979,628,1,145.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10980,402,2,390.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10981,719,2,395.0,Suisse,1,1,2,112,5. Clients Endormis / Perdus
+CUST_10982,193,5,511.0,France,3,3,3,333,2. Clients Fidèles
+CUST_10983,379,6,850.0,France,2,4,4,244,2. Clients Fidèles
+CUST_10984,136,4,408.0,Belgique,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10985,135,5,1055.0,France,3,3,5,335,2. Clients Fidèles
+CUST_10986,240,3,307.0,Belgique,3,2,2,322,5. Clients Endormis / Perdus
+CUST_10987,9,10,1272.0,France,5,5,5,555,1. Champions (VIP)
+CUST_10988,237,8,864.0,France,3,5,4,354,2. Clients Fidèles
+CUST_10989,434,5,411.0,Suisse,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_10990,2,3,308.0,Suisse,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_10991,139,8,834.0,Belgique,3,5,4,354,2. Clients Fidèles
+CUST_10992,416,6,805.0,France,1,4,4,144,2. Clients Fidèles
+CUST_10993,611,6,999.0,France,1,4,5,145,2. Clients Fidèles
+CUST_10994,746,2,140.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_10995,247,5,691.0,France,3,3,4,334,2. Clients Fidèles
+CUST_10996,35,5,312.0,Luxembourg,5,3,2,532,5. Clients Endormis / Perdus
+CUST_10997,24,7,675.0,France,5,5,4,554,1. Champions (VIP)
+CUST_10998,751,5,743.0,Canada,1,3,4,134,2. Clients Fidèles
+CUST_10999,16,7,1202.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11000,294,4,835.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_11001,104,6,862.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11002,415,1,145.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11003,263,6,1591.0,Belgique,2,4,5,245,2. Clients Fidèles
+CUST_11004,32,4,739.0,Suisse,5,2,4,524,3. Nouveaux / À Fort Potentiel
+CUST_11005,101,3,441.0,Belgique,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_11006,308,6,782.0,Belgique,2,4,4,244,2. Clients Fidèles
+CUST_11007,42,4,458.0,Suisse,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_11008,82,6,1380.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11009,53,4,1242.0,France,4,2,5,425,3. Nouveaux / À Fort Potentiel
+CUST_11010,324,6,674.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11011,994,1,48.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11012,80,4,525.0,Canada,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_11013,541,3,400.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11015,320,3,178.0,Canada,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11016,312,5,520.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11017,831,4,421.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11018,287,11,1646.0,Luxembourg,2,5,5,255,2. Clients Fidèles
+CUST_11019,70,2,178.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11020,48,4,535.0,Belgique,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_11021,253,5,473.0,France,3,3,3,333,2. Clients Fidèles
+CUST_11022,32,4,426.0,Canada,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_11023,46,8,1204.0,Canada,4,5,5,455,1. Champions (VIP)
+CUST_11024,145,2,284.0,Canada,3,1,2,312,5. Clients Endormis / Perdus
+CUST_11025,6,8,1337.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11026,137,5,404.0,Suisse,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11027,420,6,834.0,Suisse,1,4,4,144,2. Clients Fidèles
+CUST_11028,366,5,658.0,France,2,3,4,234,2. Clients Fidèles
+CUST_11029,4,1,52.0,Suisse,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11030,229,4,232.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_11031,148,6,1006.0,France,3,4,5,345,2. Clients Fidèles
+CUST_11032,676,1,145.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11033,636,3,144.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11034,172,6,696.0,France,3,4,4,344,2. Clients Fidèles
+CUST_11035,389,5,555.0,Belgique,1,3,3,133,2. Clients Fidèles
+CUST_11036,170,3,298.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11037,52,4,273.0,Belgique,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_11038,458,5,350.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11039,319,3,261.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11040,7,8,1311.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11041,41,7,960.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_11042,411,4,236.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11043,102,5,744.0,France,4,3,4,434,2. Clients Fidèles
+CUST_11044,85,9,2378.0,Luxembourg,4,5,5,455,1. Champions (VIP)
+CUST_11045,36,7,1004.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11046,156,4,585.0,France,3,2,3,323,5. Clients Endormis / Perdus
+CUST_11047,16,4,327.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_11048,199,5,855.0,Luxembourg,3,3,4,334,2. Clients Fidèles
+CUST_11049,115,6,843.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11050,187,5,441.0,Luxembourg,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11051,734,2,222.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11052,6,4,560.0,Canada,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_11053,339,3,675.0,Suisse,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_11054,1,2,86.0,Canada,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11055,6,5,524.0,France,5,3,3,533,2. Clients Fidèles
+CUST_11056,365,6,1270.0,Belgique,2,4,5,245,2. Clients Fidèles
+CUST_11057,14,5,540.0,France,5,3,3,533,2. Clients Fidèles
+CUST_11058,736,3,251.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11059,279,5,439.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11060,172,10,1728.0,Luxembourg,3,5,5,355,2. Clients Fidèles
+CUST_11061,259,8,1010.0,Canada,2,5,5,255,2. Clients Fidèles
+CUST_11062,6,6,1276.0,Belgique,5,4,5,545,1. Champions (VIP)
+CUST_11063,26,6,684.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11064,504,3,629.0,France,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_11065,372,3,238.0,Belgique,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11066,1,6,1091.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11067,696,2,137.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11068,425,3,204.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11069,24,7,1182.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11070,204,4,846.0,France,3,2,4,324,5. Clients Endormis / Perdus
+CUST_11071,329,4,302.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11072,301,4,398.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11073,162,4,357.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11074,165,9,2007.0,Canada,3,5,5,355,2. Clients Fidèles
+CUST_11075,120,6,612.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11076,756,4,646.0,France,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_11077,167,5,1117.0,Belgique,3,3,5,335,2. Clients Fidèles
+CUST_11078,660,2,212.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11079,306,8,1323.0,Canada,2,5,5,255,2. Clients Fidèles
+CUST_11080,384,10,1070.0,Suisse,2,5,5,255,2. Clients Fidèles
+CUST_11081,117,4,469.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_11082,470,2,450.0,France,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_11083,421,3,330.0,Luxembourg,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11084,9,10,1146.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_11085,18,5,471.0,France,5,3,3,533,2. Clients Fidèles
+CUST_11086,55,6,923.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11087,552,5,634.0,France,1,3,4,134,2. Clients Fidèles
+CUST_11088,298,6,583.0,Canada,2,4,3,243,2. Clients Fidèles
+CUST_11089,186,13,2318.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11090,135,5,650.0,Canada,3,3,4,334,2. Clients Fidèles
+CUST_11091,481,4,649.0,France,1,3,4,134,2. Clients Fidèles
+CUST_11093,190,6,1068.0,France,3,4,5,345,2. Clients Fidèles
+CUST_11094,762,1,48.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11095,474,4,1064.0,France,1,3,5,135,2. Clients Fidèles
+CUST_11096,442,6,562.0,France,1,4,3,143,2. Clients Fidèles
+CUST_11097,44,3,187.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_11098,122,9,1136.0,Suisse,4,5,5,455,1. Champions (VIP)
+CUST_11099,41,3,201.0,France,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_11100,404,3,208.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11101,135,4,296.0,Canada,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11102,400,5,356.0,Luxembourg,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11103,325,4,295.0,Canada,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11104,32,4,598.0,Canada,5,3,3,533,2. Clients Fidèles
+CUST_11105,345,3,197.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11106,303,5,769.0,France,2,3,4,234,2. Clients Fidèles
+CUST_11107,371,6,448.0,Belgique,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11108,115,5,502.0,Belgique,4,3,3,433,2. Clients Fidèles
+CUST_11109,371,4,238.0,France,2,3,1,231,4. À Risque (À relancer d'urgence)
+CUST_11110,264,2,250.0,Suisse,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11111,396,7,504.0,France,1,5,3,153,2. Clients Fidèles
+CUST_11112,37,6,1010.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11113,444,3,254.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11114,778,2,366.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_11115,11,5,438.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11116,119,9,1460.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11117,148,5,799.0,Luxembourg,3,3,4,334,2. Clients Fidèles
+CUST_11118,311,9,1249.0,France,2,5,5,255,2. Clients Fidèles
+CUST_11119,335,4,289.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11120,237,5,943.0,Luxembourg,3,3,5,335,2. Clients Fidèles
+CUST_11121,17,4,260.0,Canada,5,3,1,531,5. Clients Endormis / Perdus
+CUST_11122,10,6,929.0,Suisse,5,4,5,545,1. Champions (VIP)
+CUST_11123,235,5,640.0,Suisse,3,3,4,334,2. Clients Fidèles
+CUST_11124,16,2,675.0,Belgique,5,1,4,514,3. Nouveaux / À Fort Potentiel
+CUST_11125,251,1,115.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11126,10,4,512.0,France,5,3,3,533,2. Clients Fidèles
+CUST_11127,284,10,1188.0,France,2,5,5,255,2. Clients Fidèles
+CUST_11128,430,5,576.0,France,1,3,3,133,2. Clients Fidèles
+CUST_11129,55,5,319.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11130,594,3,537.0,Belgique,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_11131,48,6,1205.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11132,149,5,643.0,France,3,3,4,334,2. Clients Fidèles
+CUST_11133,125,9,1631.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11134,34,5,1073.0,Belgique,5,3,5,535,2. Clients Fidèles
+CUST_11135,25,3,178.0,France,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_11136,70,5,761.0,Suisse,4,3,4,434,2. Clients Fidèles
+CUST_11137,71,7,472.0,France,4,5,3,453,2. Clients Fidèles
+CUST_11138,396,2,512.0,France,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_11139,392,5,392.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11140,163,8,765.0,Suisse,3,5,4,354,2. Clients Fidèles
+CUST_11141,317,4,775.0,France,2,3,4,234,2. Clients Fidèles
+CUST_11142,154,4,755.0,Belgique,3,3,4,334,2. Clients Fidèles
+CUST_11143,360,5,612.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11144,232,8,1483.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11145,941,1,115.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11146,407,2,72.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11147,276,2,229.0,Belgique,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11148,196,5,525.0,Suisse,3,3,3,333,2. Clients Fidèles
+CUST_11149,210,6,406.0,Suisse,3,4,2,342,5. Clients Endormis / Perdus
+CUST_11150,3,7,1008.0,Belgique,5,5,5,555,1. Champions (VIP)
+CUST_11151,691,2,89.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11152,87,9,1166.0,Belgique,4,5,5,455,1. Champions (VIP)
+CUST_11153,402,2,228.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11154,374,4,496.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11155,331,4,739.0,Belgique,2,3,4,234,2. Clients Fidèles
+CUST_11156,557,6,633.0,France,1,4,4,144,2. Clients Fidèles
+CUST_11157,310,5,444.0,Luxembourg,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11158,27,7,1092.0,Luxembourg,5,5,5,555,1. Champions (VIP)
+CUST_11159,219,5,477.0,France,3,3,3,333,2. Clients Fidèles
+CUST_11160,310,3,296.0,Suisse,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11161,47,4,447.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11162,324,6,591.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11163,1067,1,68.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11164,32,7,557.0,France,5,5,3,553,2. Clients Fidèles
+CUST_11165,54,2,123.0,Suisse,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11166,48,7,733.0,Suisse,4,5,4,454,1. Champions (VIP)
+CUST_11167,100,3,615.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_11168,313,2,305.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_11169,91,6,566.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11170,5,5,522.0,France,5,3,3,533,2. Clients Fidèles
+CUST_11171,192,4,330.0,Canada,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11172,1,5,380.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11173,48,3,206.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_11174,115,4,496.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11175,105,6,490.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11177,385,7,719.0,France,2,5,4,254,2. Clients Fidèles
+CUST_11178,453,5,516.0,Belgique,1,3,3,133,2. Clients Fidèles
+CUST_11179,140,5,545.0,France,3,3,3,333,2. Clients Fidèles
+CUST_11180,130,3,272.0,Canada,3,2,1,321,5. Clients Endormis / Perdus
+CUST_11181,124,5,567.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11182,280,5,379.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11183,304,1,145.0,Canada,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11184,53,5,1027.0,France,4,3,5,435,2. Clients Fidèles
+CUST_11185,270,1,55.0,Canada,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11186,329,3,282.0,Belgique,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11187,252,9,1742.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11188,17,4,773.0,France,5,3,4,534,2. Clients Fidèles
+CUST_11189,535,2,263.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11190,259,6,824.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11191,634,2,159.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11192,1087,1,160.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11193,474,3,822.0,France,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_11194,73,9,1675.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11195,406,2,393.0,Luxembourg,1,1,2,112,5. Clients Endormis / Perdus
+CUST_11196,13,8,1137.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_11197,249,5,625.0,Canada,3,3,4,334,2. Clients Fidèles
+CUST_11198,238,2,550.0,Belgique,3,1,3,313,5. Clients Endormis / Perdus
+CUST_11200,47,6,634.0,Belgique,4,4,4,444,1. Champions (VIP)
+CUST_11201,54,6,553.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11202,1044,1,68.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11203,494,1,110.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11204,185,4,695.0,France,3,3,4,334,2. Clients Fidèles
+CUST_11205,182,4,602.0,Suisse,3,3,3,333,2. Clients Fidèles
+CUST_11206,293,7,1343.0,Belgique,2,5,5,255,2. Clients Fidèles
+CUST_11207,140,4,773.0,France,3,3,4,334,2. Clients Fidèles
+CUST_11208,419,4,547.0,France,1,3,3,133,2. Clients Fidèles
+CUST_11209,38,7,950.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_11210,127,4,689.0,France,4,3,4,434,2. Clients Fidèles
+CUST_11211,177,2,255.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11212,49,7,489.0,France,4,5,3,453,2. Clients Fidèles
+CUST_11213,369,3,297.0,Suisse,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11214,65,4,538.0,Belgique,4,3,3,433,2. Clients Fidèles
+CUST_11215,89,5,750.0,France,4,3,4,434,2. Clients Fidèles
+CUST_11216,329,5,343.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11217,410,1,160.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11218,824,3,238.0,Belgique,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11219,17,5,368.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11220,220,4,296.0,Canada,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11221,164,9,978.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11222,194,4,336.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11223,10,7,1162.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_11224,412,8,613.0,France,1,5,3,153,2. Clients Fidèles
+CUST_11225,24,5,628.0,France,5,3,4,534,2. Clients Fidèles
+CUST_11226,274,6,955.0,France,2,4,5,245,2. Clients Fidèles
+CUST_11227,589,6,1106.0,France,1,4,5,145,2. Clients Fidèles
+CUST_11228,140,7,1152.0,Canada,3,5,5,355,2. Clients Fidèles
+CUST_11229,489,4,290.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11230,143,3,256.0,Luxembourg,3,2,1,321,5. Clients Endormis / Perdus
+CUST_11231,71,6,626.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11232,271,6,818.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11233,179,7,709.0,France,3,5,4,354,2. Clients Fidèles
+CUST_11234,377,4,493.0,Belgique,2,3,3,233,2. Clients Fidèles
+CUST_11235,206,4,557.0,France,3,3,3,333,2. Clients Fidèles
+CUST_11236,28,5,1002.0,Suisse,5,3,5,535,2. Clients Fidèles
+CUST_11237,880,3,374.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11238,250,3,553.0,Canada,3,2,3,323,5. Clients Endormis / Perdus
+CUST_11239,418,2,298.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_11240,132,11,1419.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_11241,256,3,360.0,Suisse,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11242,195,7,977.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_11243,645,3,189.0,Suisse,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11244,103,8,964.0,Belgique,4,5,5,455,1. Champions (VIP)
+CUST_11245,55,5,524.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11246,740,1,110.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11247,56,4,418.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11248,101,6,544.0,Canada,4,4,3,443,2. Clients Fidèles
+CUST_11249,95,3,264.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_11250,17,6,736.0,Suisse,5,4,4,544,1. Champions (VIP)
+CUST_11251,145,8,1387.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11252,104,4,623.0,France,4,3,4,434,2. Clients Fidèles
+CUST_11253,183,6,524.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11254,732,3,400.0,Belgique,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11255,26,6,901.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11256,233,3,299.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11257,328,3,252.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11258,18,7,886.0,France,5,5,4,554,1. Champions (VIP)
+CUST_11259,929,1,115.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11260,979,1,195.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11261,42,4,653.0,Suisse,5,3,4,534,2. Clients Fidèles
+CUST_11262,306,5,536.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11263,250,4,482.0,France,3,3,3,333,2. Clients Fidèles
+CUST_11264,309,6,762.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11265,387,5,589.0,France,1,3,3,133,2. Clients Fidèles
+CUST_11266,859,2,104.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11267,77,2,212.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11268,51,4,411.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11269,39,4,293.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11270,400,4,847.0,Belgique,1,3,4,134,2. Clients Fidèles
+CUST_11271,323,6,607.0,Suisse,2,4,3,243,2. Clients Fidèles
+CUST_11273,6,2,96.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11274,58,6,634.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11275,163,2,72.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11276,38,4,395.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11277,295,10,979.0,Canada,2,5,5,255,2. Clients Fidèles
+CUST_11278,369,5,913.0,France,2,3,5,235,2. Clients Fidèles
+CUST_11279,12,6,951.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11280,47,2,247.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11281,308,3,393.0,Belgique,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11282,49,6,548.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11283,284,4,621.0,France,2,3,4,234,2. Clients Fidèles
+CUST_11284,240,5,933.0,France,3,3,5,335,2. Clients Fidèles
+CUST_11285,956,2,425.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_11286,134,12,2065.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11287,173,4,270.0,France,3,3,1,331,5. Clients Endormis / Perdus
+CUST_11288,364,5,587.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11289,178,4,308.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11290,340,1,34.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11291,42,6,653.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11292,25,5,372.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11293,161,7,824.0,Belgique,3,5,4,354,2. Clients Fidèles
+CUST_11294,6,5,555.0,Suisse,5,3,3,533,2. Clients Fidèles
+CUST_11295,319,4,783.0,France,2,3,4,234,2. Clients Fidèles
+CUST_11296,424,2,153.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11297,607,4,269.0,France,1,3,1,131,4. À Risque (À relancer d'urgence)
+CUST_11298,538,4,979.0,France,1,3,5,135,2. Clients Fidèles
+CUST_11299,36,8,916.0,Belgique,5,5,5,555,1. Champions (VIP)
+CUST_11300,79,5,636.0,France,4,3,4,434,2. Clients Fidèles
+CUST_11301,371,4,361.0,Canada,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11302,314,4,349.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11303,373,3,418.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11304,1037,1,68.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11305,60,7,495.0,Luxembourg,4,5,3,453,2. Clients Fidèles
+CUST_11306,321,5,476.0,Belgique,2,3,3,233,2. Clients Fidèles
+CUST_11307,509,2,445.0,Suisse,1,1,2,112,5. Clients Endormis / Perdus
+CUST_11308,324,4,735.0,France,2,3,4,234,2. Clients Fidèles
+CUST_11309,150,3,405.0,Suisse,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11310,460,6,1624.0,France,1,4,5,145,2. Clients Fidèles
+CUST_11311,320,5,585.0,Luxembourg,2,3,3,233,2. Clients Fidèles
+CUST_11312,323,5,403.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11313,16,3,227.0,Suisse,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_11314,188,2,331.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_11315,265,6,697.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11316,1025,1,34.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11317,55,6,982.0,Belgique,4,4,5,445,1. Champions (VIP)
+CUST_11318,4,2,106.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11319,125,5,396.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11320,88,7,766.0,France,4,5,4,454,1. Champions (VIP)
+CUST_11321,674,2,136.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11322,31,4,229.0,Luxembourg,5,3,1,531,5. Clients Endormis / Perdus
+CUST_11323,19,8,1226.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11324,411,6,529.0,Canada,1,4,3,143,2. Clients Fidèles
+CUST_11325,777,4,713.0,France,1,3,4,134,2. Clients Fidèles
+CUST_11326,1,7,1009.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11327,53,10,1022.0,Suisse,4,5,5,455,1. Champions (VIP)
+CUST_11328,40,5,383.0,Belgique,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11329,114,4,505.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11330,401,2,170.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11331,57,2,280.0,Belgique,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11332,68,6,935.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11333,31,4,208.0,Canada,5,3,1,531,5. Clients Endormis / Perdus
+CUST_11334,306,3,767.0,Canada,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_11335,77,5,545.0,Belgique,4,4,3,443,2. Clients Fidèles
+CUST_11336,313,3,252.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11337,138,2,136.0,Belgique,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11338,749,2,106.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11339,759,1,85.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11340,192,5,708.0,France,3,4,4,344,2. Clients Fidèles
+CUST_11341,58,4,925.0,France,4,3,5,435,2. Clients Fidèles
+CUST_11342,324,8,904.0,Suisse,2,5,5,255,2. Clients Fidèles
+CUST_11343,328,4,369.0,Belgique,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11344,76,5,560.0,Belgique,4,4,3,443,2. Clients Fidèles
+CUST_11345,495,6,592.0,France,1,4,3,143,2. Clients Fidèles
+CUST_11346,86,5,537.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11347,89,4,546.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11348,49,4,367.0,Canada,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11349,326,2,430.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_11350,182,9,1464.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_11351,323,4,284.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11352,14,7,549.0,France,5,5,3,553,2. Clients Fidèles
+CUST_11353,35,8,715.0,Belgique,5,5,4,554,1. Champions (VIP)
+CUST_11354,416,3,208.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11355,305,6,981.0,Luxembourg,2,4,5,245,2. Clients Fidèles
+CUST_11356,301,5,333.0,Luxembourg,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11357,505,6,1230.0,France,1,4,5,145,2. Clients Fidèles
+CUST_11358,553,4,350.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11359,57,4,332.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11360,185,5,813.0,Luxembourg,3,4,4,344,2. Clients Fidèles
+CUST_11361,58,5,451.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11362,315,2,310.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_11363,439,3,423.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11364,390,2,535.0,Belgique,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_11365,369,5,1044.0,France,2,4,5,245,2. Clients Fidèles
+CUST_11366,272,7,1337.0,Belgique,2,5,5,255,2. Clients Fidèles
+CUST_11367,3,5,476.0,Luxembourg,5,4,3,543,2. Clients Fidèles
+CUST_11368,31,3,180.0,France,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_11369,542,4,507.0,France,1,3,3,133,2. Clients Fidèles
+CUST_11370,390,6,483.0,Canada,1,4,3,143,2. Clients Fidèles
+CUST_11371,184,4,731.0,France,3,3,4,334,2. Clients Fidèles
+CUST_11372,467,3,183.0,Suisse,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11373,306,6,286.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11374,405,3,108.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11375,159,5,1031.0,Luxembourg,3,4,5,345,2. Clients Fidèles
+CUST_11376,231,4,369.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11377,345,4,231.0,France,2,3,1,231,4. À Risque (À relancer d'urgence)
+CUST_11378,119,9,1098.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11379,56,5,498.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11380,1,4,224.0,France,5,3,1,531,5. Clients Endormis / Perdus
+CUST_11381,305,3,423.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11382,623,2,375.0,Canada,1,1,2,112,5. Clients Endormis / Perdus
+CUST_11383,55,3,259.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_11384,62,7,1322.0,Belgique,4,5,5,455,1. Champions (VIP)
+CUST_11385,83,4,293.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11386,270,3,510.0,Suisse,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_11387,32,4,715.0,France,5,3,4,534,2. Clients Fidèles
+CUST_11388,216,4,836.0,Canada,3,3,4,334,2. Clients Fidèles
+CUST_11389,274,7,906.0,France,2,5,5,255,2. Clients Fidèles
+CUST_11390,57,4,311.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11391,189,4,304.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11392,12,5,373.0,France,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11393,186,5,494.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11394,45,3,171.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_11395,145,7,712.0,Suisse,3,5,4,354,2. Clients Fidèles
+CUST_11396,152,3,187.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_11397,197,4,516.0,France,3,3,3,333,2. Clients Fidèles
+CUST_11398,97,6,1100.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11399,382,5,510.0,Belgique,2,4,3,243,2. Clients Fidèles
+CUST_11400,23,2,915.0,France,5,1,5,515,3. Nouveaux / À Fort Potentiel
+CUST_11401,98,3,454.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_11402,315,5,310.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11403,56,3,189.0,Belgique,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_11404,404,2,212.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11405,398,4,551.0,France,1,3,3,133,2. Clients Fidèles
+CUST_11406,467,2,130.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11407,412,6,448.0,Suisse,1,4,2,142,4. À Risque (À relancer d'urgence)
+CUST_11408,18,6,387.0,France,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11409,10,7,876.0,Suisse,5,5,4,554,1. Champions (VIP)
+CUST_11410,80,6,544.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11411,331,6,574.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11412,749,1,255.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11413,288,2,96.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11414,603,5,809.0,France,1,4,4,144,2. Clients Fidèles
+CUST_11415,738,2,84.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11416,46,5,369.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_11417,265,4,356.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11418,28,2,193.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11419,227,5,803.0,Canada,3,4,4,344,2. Clients Fidèles
+CUST_11420,164,5,525.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11421,33,7,595.0,France,5,5,3,553,2. Clients Fidèles
+CUST_11422,26,6,1020.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11423,25,6,631.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11424,28,3,389.0,Canada,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_11425,478,5,661.0,Canada,1,4,4,144,2. Clients Fidèles
+CUST_11426,788,3,420.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11427,184,5,1166.0,Canada,3,4,5,345,2. Clients Fidèles
+CUST_11428,53,6,783.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11429,285,2,86.0,Suisse,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11430,306,5,495.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11431,43,5,673.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11432,12,5,497.0,France,5,4,3,543,2. Clients Fidèles
+CUST_11433,692,2,123.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11434,462,2,211.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11435,7,5,884.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11436,355,2,245.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11437,465,3,393.0,Belgique,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11438,19,8,1294.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11439,40,5,1118.0,Belgique,5,4,5,545,1. Champions (VIP)
+CUST_11440,828,2,230.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11441,95,5,573.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11442,16,5,1014.0,Belgique,5,4,5,545,1. Champions (VIP)
+CUST_11443,193,7,783.0,France,3,5,4,354,2. Clients Fidèles
+CUST_11444,195,5,655.0,Suisse,3,4,4,344,2. Clients Fidèles
+CUST_11445,861,1,34.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11446,148,7,1638.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_11447,3,4,664.0,Suisse,5,3,4,534,2. Clients Fidèles
+CUST_11448,464,2,400.0,Canada,1,1,2,112,5. Clients Endormis / Perdus
+CUST_11450,273,3,120.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11451,208,6,572.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11452,597,5,465.0,Suisse,1,4,3,143,2. Clients Fidèles
+CUST_11453,282,2,649.0,France,2,1,4,214,4. À Risque (À relancer d'urgence)
+CUST_11454,55,8,963.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11455,47,4,953.0,Canada,4,3,5,435,2. Clients Fidèles
+CUST_11456,141,4,453.0,Belgique,3,3,3,333,2. Clients Fidèles
+CUST_11457,316,1,52.0,Belgique,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11458,309,5,1056.0,France,2,4,5,245,2. Clients Fidèles
+CUST_11459,284,4,488.0,Belgique,2,3,3,233,2. Clients Fidèles
+CUST_11460,298,5,395.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11461,182,7,921.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_11462,19,2,355.0,France,5,1,2,512,3. Nouveaux / À Fort Potentiel
+CUST_11463,446,6,972.0,Belgique,1,4,5,145,2. Clients Fidèles
+CUST_11464,425,4,170.0,Canada,1,3,1,131,4. À Risque (À relancer d'urgence)
+CUST_11465,537,5,555.0,France,1,4,3,143,2. Clients Fidèles
+CUST_11466,292,4,392.0,Canada,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11467,25,5,404.0,France,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11468,119,8,964.0,Luxembourg,4,5,5,455,1. Champions (VIP)
+CUST_11469,236,3,490.0,Suisse,3,2,3,323,5. Clients Endormis / Perdus
+CUST_11470,177,7,663.0,France,3,5,4,354,2. Clients Fidèles
+CUST_11471,22,7,659.0,Belgique,5,5,4,554,1. Champions (VIP)
+CUST_11472,55,2,215.0,Luxembourg,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11473,369,3,320.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11474,5,5,902.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11475,80,7,800.0,Belgique,4,5,4,454,1. Champions (VIP)
+CUST_11476,17,7,1427.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_11477,216,10,1145.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_11478,9,6,705.0,Suisse,5,4,4,544,1. Champions (VIP)
+CUST_11479,410,4,569.0,France,1,3,3,133,2. Clients Fidèles
+CUST_11480,205,3,437.0,Suisse,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11481,84,6,603.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11482,210,5,253.0,France,3,4,1,341,5. Clients Endormis / Perdus
+CUST_11483,27,4,625.0,France,5,3,4,534,2. Clients Fidèles
+CUST_11484,62,2,270.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11485,288,3,183.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11486,265,4,320.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11487,306,4,346.0,Belgique,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11488,68,9,1276.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11489,44,6,1506.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11490,158,6,834.0,France,3,4,4,344,2. Clients Fidèles
+CUST_11491,162,7,878.0,France,3,5,4,354,2. Clients Fidèles
+CUST_11492,6,7,1345.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11493,121,8,1117.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11494,173,3,156.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_11495,268,2,245.0,Belgique,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11496,331,2,107.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11497,6,7,1354.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11498,312,5,1151.0,France,2,4,5,245,2. Clients Fidèles
+CUST_11499,484,5,364.0,Suisse,1,4,2,142,4. À Risque (À relancer d'urgence)
+CUST_11500,88,9,1156.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11501,246,2,930.0,France,3,1,5,315,5. Clients Endormis / Perdus
+CUST_11502,11,8,808.0,France,5,5,4,554,1. Champions (VIP)
+CUST_11503,51,5,339.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_11504,14,5,1134.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11505,276,6,389.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11506,380,5,339.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11507,75,3,654.0,France,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_11508,378,7,1173.0,France,2,5,5,255,2. Clients Fidèles
+CUST_11509,409,7,933.0,Belgique,1,5,5,155,2. Clients Fidèles
+CUST_11510,46,12,1367.0,Suisse,4,5,5,455,1. Champions (VIP)
+CUST_11511,821,5,1882.0,Belgique,1,4,5,145,2. Clients Fidèles
+CUST_11512,772,3,171.0,Canada,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11513,137,4,289.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11514,312,2,354.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_11515,2,8,1057.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11516,9,5,579.0,France,5,4,3,543,2. Clients Fidèles
+CUST_11517,10,2,245.0,Luxembourg,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11518,4,7,639.0,France,5,5,4,554,1. Champions (VIP)
+CUST_11519,332,3,364.0,Canada,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11520,155,4,628.0,France,3,3,4,334,2. Clients Fidèles
+CUST_11521,26,3,532.0,Canada,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_11522,357,2,227.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11523,8,9,513.0,France,5,5,3,553,2. Clients Fidèles
+CUST_11524,469,1,85.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11525,47,3,659.0,France,4,2,4,424,3. Nouveaux / À Fort Potentiel
+CUST_11526,372,4,315.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11527,206,4,631.0,France,3,3,4,334,2. Clients Fidèles
+CUST_11528,310,4,755.0,Suisse,2,3,4,234,2. Clients Fidèles
+CUST_11529,39,9,824.0,France,5,5,4,554,1. Champions (VIP)
+CUST_11530,240,2,172.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11531,378,3,549.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_11532,687,2,144.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11533,94,6,1367.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11534,67,3,416.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_11535,98,5,905.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11536,36,5,364.0,France,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11537,62,6,480.0,Belgique,4,4,3,443,2. Clients Fidèles
+CUST_11538,42,7,786.0,France,5,5,4,554,1. Champions (VIP)
+CUST_11539,537,4,891.0,France,1,3,4,134,2. Clients Fidèles
+CUST_11540,7,10,1295.0,Belgique,5,5,5,555,1. Champions (VIP)
+CUST_11541,15,6,826.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11542,214,5,371.0,France,3,4,2,342,5. Clients Endormis / Perdus
+CUST_11543,86,5,832.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11544,170,6,630.0,Canada,3,4,4,344,2. Clients Fidèles
+CUST_11545,16,6,786.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11546,23,5,328.0,Suisse,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11547,28,4,293.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11548,305,4,231.0,France,2,3,1,231,4. À Risque (À relancer d'urgence)
+CUST_11549,1,5,649.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11550,130,4,447.0,Canada,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11551,1,6,697.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11552,155,7,1030.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_11553,705,2,156.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11554,641,7,639.0,France,1,5,4,154,2. Clients Fidèles
+CUST_11555,48,7,1447.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11556,755,3,395.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11557,306,6,612.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11558,279,7,730.0,Suisse,2,5,4,254,2. Clients Fidèles
+CUST_11559,654,3,338.0,Luxembourg,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11560,4,7,685.0,France,5,5,4,554,1. Champions (VIP)
+CUST_11561,211,4,616.0,France,3,3,3,333,2. Clients Fidèles
+CUST_11562,78,5,622.0,Suisse,4,4,4,444,1. Champions (VIP)
+CUST_11563,83,3,294.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_11564,391,4,332.0,Suisse,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11565,416,3,549.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_11566,255,7,1426.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_11567,377,5,391.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11568,213,2,100.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11569,349,4,599.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11570,38,3,310.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_11571,88,6,266.0,France,4,4,1,441,5. Clients Endormis / Perdus
+CUST_11572,46,3,215.0,Belgique,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_11573,270,6,561.0,Suisse,2,4,3,243,2. Clients Fidèles
+CUST_11574,158,4,357.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11575,481,2,211.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11576,326,4,735.0,France,2,3,4,234,2. Clients Fidèles
+CUST_11577,453,2,152.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11578,766,2,192.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11579,91,7,884.0,France,4,5,4,454,1. Champions (VIP)
+CUST_11580,311,6,649.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11581,21,5,725.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11582,404,5,220.0,France,1,4,1,141,4. À Risque (À relancer d'urgence)
+CUST_11583,330,3,576.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_11584,145,2,229.0,Canada,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11585,10,10,1349.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11586,288,5,467.0,Belgique,2,4,3,243,2. Clients Fidèles
+CUST_11587,28,3,287.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_11588,106,8,475.0,France,4,5,3,453,2. Clients Fidèles
+CUST_11589,321,3,273.0,Belgique,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11590,265,4,289.0,Belgique,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11591,52,6,822.0,Canada,4,4,4,444,1. Champions (VIP)
+CUST_11592,218,4,573.0,France,3,3,3,333,2. Clients Fidèles
+CUST_11593,76,4,825.0,France,4,3,4,434,2. Clients Fidèles
+CUST_11594,231,3,295.0,Belgique,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11595,153,7,728.0,France,3,5,4,354,2. Clients Fidèles
+CUST_11596,32,6,445.0,France,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11597,331,8,1136.0,France,2,5,5,255,2. Clients Fidèles
+CUST_11598,19,9,1133.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11599,23,6,640.0,Luxembourg,5,4,4,544,1. Champions (VIP)
+CUST_11600,166,1,68.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11601,54,6,770.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11602,242,2,199.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11603,23,5,773.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11604,317,3,890.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_11605,413,3,975.0,France,1,2,5,125,4. À Risque (À relancer d'urgence)
+CUST_11606,753,2,331.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_11607,61,4,403.0,Suisse,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11608,358,1,160.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11609,105,5,746.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11610,8,5,463.0,Luxembourg,5,4,3,543,2. Clients Fidèles
+CUST_11611,31,8,585.0,Belgique,5,5,3,553,2. Clients Fidèles
+CUST_11612,57,8,1013.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11613,18,8,1038.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11614,640,1,55.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11615,377,3,422.0,Belgique,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11616,124,6,619.0,Canada,4,4,3,443,2. Clients Fidèles
+CUST_11617,263,4,373.0,Belgique,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11618,315,4,376.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11619,150,6,640.0,Belgique,3,4,4,344,2. Clients Fidèles
+CUST_11620,54,5,168.0,France,4,4,1,441,5. Clients Endormis / Perdus
+CUST_11621,232,8,758.0,France,3,5,4,354,2. Clients Fidèles
+CUST_11622,21,4,320.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11623,178,3,759.0,Canada,3,2,4,324,5. Clients Endormis / Perdus
+CUST_11624,213,6,820.0,France,3,4,4,344,2. Clients Fidèles
+CUST_11625,180,5,1407.0,Belgique,3,4,5,345,2. Clients Fidèles
+CUST_11626,680,4,425.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11627,127,6,490.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11628,12,2,340.0,France,5,1,2,512,3. Nouveaux / À Fort Potentiel
+CUST_11629,371,6,713.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11630,152,5,689.0,Belgique,3,4,4,344,2. Clients Fidèles
+CUST_11631,169,9,1661.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11632,103,3,387.0,Belgique,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_11633,184,8,1246.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_11634,709,5,505.0,Canada,1,4,3,143,2. Clients Fidèles
+CUST_11635,419,4,362.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11636,3,3,644.0,France,5,2,4,524,3. Nouveaux / À Fort Potentiel
+CUST_11637,136,7,1015.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11638,271,6,875.0,Canada,2,4,4,244,2. Clients Fidèles
+CUST_11639,15,5,462.0,Canada,5,4,3,543,2. Clients Fidèles
+CUST_11640,136,9,1031.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11641,44,6,1339.0,Suisse,4,4,5,445,1. Champions (VIP)
+CUST_11642,383,3,228.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11643,155,5,528.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11644,367,2,490.0,France,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_11645,985,1,32.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11646,3,6,540.0,France,5,4,3,543,2. Clients Fidèles
+CUST_11647,208,6,685.0,Suisse,3,4,4,344,2. Clients Fidèles
+CUST_11648,378,3,905.0,Suisse,2,2,5,225,4. À Risque (À relancer d'urgence)
+CUST_11649,24,5,411.0,Belgique,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11650,75,5,599.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11651,276,4,243.0,France,2,3,1,231,4. À Risque (À relancer d'urgence)
+CUST_11652,150,6,490.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11653,245,3,747.0,France,3,2,4,324,5. Clients Endormis / Perdus
+CUST_11654,175,4,478.0,France,3,3,3,333,2. Clients Fidèles
+CUST_11655,397,3,152.0,Canada,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11656,393,3,790.0,France,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_11657,367,4,489.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11658,73,7,1173.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11659,168,9,894.0,France,3,5,4,354,2. Clients Fidèles
+CUST_11660,500,3,506.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_11661,6,3,458.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_11662,438,4,294.0,Luxembourg,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11663,86,5,357.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_11664,15,3,265.0,Canada,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_11665,177,7,685.0,Suisse,3,5,4,354,2. Clients Fidèles
+CUST_11666,299,10,1304.0,France,2,5,5,255,2. Clients Fidèles
+CUST_11667,33,7,813.0,Canada,5,5,4,554,1. Champions (VIP)
+CUST_11668,541,3,309.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11669,187,3,870.0,Suisse,3,2,4,324,5. Clients Endormis / Perdus
+CUST_11670,133,4,305.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11671,469,3,357.0,Luxembourg,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11672,50,5,375.0,Suisse,4,4,2,442,5. Clients Endormis / Perdus
+CUST_11673,361,3,425.0,Suisse,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11674,23,4,572.0,Suisse,5,3,3,533,2. Clients Fidèles
+CUST_11675,398,7,1825.0,France,1,5,5,155,2. Clients Fidèles
+CUST_11676,323,5,472.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11677,49,11,1149.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11678,16,8,695.0,France,5,5,4,554,1. Champions (VIP)
+CUST_11679,227,8,968.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_11680,305,5,783.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11681,3,8,1174.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_11682,82,5,870.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11683,591,3,356.0,Suisse,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11684,2,3,613.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_11685,144,9,1206.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_11686,391,4,1436.0,Canada,1,3,5,135,2. Clients Fidèles
+CUST_11687,201,4,226.0,France,3,3,1,331,5. Clients Endormis / Perdus
+CUST_11688,45,5,661.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11689,19,3,528.0,Belgique,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_11690,1,4,427.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11691,318,3,238.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11692,96,2,297.0,France,4,1,2,412,3. Nouveaux / À Fort Potentiel
+CUST_11693,171,7,1127.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11694,693,2,250.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11695,10,3,407.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_11696,756,2,215.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11697,121,5,464.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11698,41,9,2178.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_11699,1,6,1085.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11700,17,4,654.0,Canada,5,3,4,534,2. Clients Fidèles
+CUST_11701,57,2,213.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11702,416,3,312.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11703,275,8,1106.0,France,2,5,5,255,2. Clients Fidèles
+CUST_11704,62,6,897.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11705,769,5,676.0,France,1,4,4,144,2. Clients Fidèles
+CUST_11706,421,7,965.0,France,1,5,5,155,2. Clients Fidèles
+CUST_11707,21,3,346.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_11708,185,2,116.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11709,572,4,1445.0,Belgique,1,3,5,135,2. Clients Fidèles
+CUST_11710,43,6,747.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11711,104,6,914.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11712,407,3,266.0,Suisse,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11713,320,2,388.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_11714,56,6,486.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11715,227,5,463.0,Canada,3,4,3,343,2. Clients Fidèles
+CUST_11716,198,7,566.0,France,3,5,3,353,2. Clients Fidèles
+CUST_11717,66,5,618.0,Belgique,4,4,3,443,2. Clients Fidèles
+CUST_11718,23,5,452.0,Canada,5,4,3,543,2. Clients Fidèles
+CUST_11719,378,2,263.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11720,9,8,1486.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11721,343,3,676.0,France,2,2,4,224,4. À Risque (À relancer d'urgence)
+CUST_11722,330,6,556.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11723,269,3,135.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11724,233,3,301.0,Belgique,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11725,412,2,515.0,France,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_11726,2,8,1188.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11727,385,5,505.0,Canada,2,4,3,243,2. Clients Fidèles
+CUST_11728,79,9,822.0,Suisse,4,5,4,454,1. Champions (VIP)
+CUST_11729,75,4,396.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11730,15,2,116.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11731,202,2,233.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11732,58,4,514.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11733,395,3,417.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11734,62,4,572.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11735,314,3,566.0,Luxembourg,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_11736,273,5,489.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11737,2,4,411.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11738,429,3,315.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11739,109,3,436.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_11740,138,4,300.0,Suisse,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11741,380,3,295.0,Belgique,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11742,13,3,628.0,Belgique,5,2,4,524,3. Nouveaux / À Fort Potentiel
+CUST_11743,113,4,513.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11744,18,6,727.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11745,310,7,1066.0,France,2,5,5,255,2. Clients Fidèles
+CUST_11746,368,1,76.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11747,264,5,1045.0,France,2,4,5,245,2. Clients Fidèles
+CUST_11748,366,6,536.0,Belgique,2,4,3,243,2. Clients Fidèles
+CUST_11749,432,5,876.0,France,1,4,4,144,2. Clients Fidèles
+CUST_11750,41,5,634.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11751,213,2,128.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11753,52,4,370.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11754,386,2,550.0,Canada,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_11755,352,5,441.0,Suisse,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11756,13,4,448.0,Canada,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11757,94,7,1124.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11758,329,5,730.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11759,273,3,285.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11760,199,3,234.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_11761,44,4,575.0,Suisse,4,3,3,433,2. Clients Fidèles
+CUST_11762,77,3,514.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_11763,66,5,601.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11764,315,5,338.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_11765,370,5,746.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11767,11,6,725.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11768,377,4,394.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11769,751,2,193.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11770,132,3,318.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11771,21,4,370.0,Suisse,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11772,481,2,148.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11773,277,3,272.0,Canada,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11774,31,5,1071.0,Suisse,5,4,5,545,1. Champions (VIP)
+CUST_11775,35,5,309.0,France,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11776,206,4,272.0,Belgique,3,3,1,331,5. Clients Endormis / Perdus
+CUST_11778,309,4,1246.0,France,2,3,5,235,2. Clients Fidèles
+CUST_11779,163,7,1452.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_11780,32,5,691.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11781,103,2,106.0,Luxembourg,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11782,293,5,1075.0,France,2,4,5,245,2. Clients Fidèles
+CUST_11783,128,7,988.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11784,185,7,1366.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_11785,26,5,617.0,Luxembourg,5,4,3,543,2. Clients Fidèles
+CUST_11786,46,7,546.0,France,4,5,3,453,2. Clients Fidèles
+CUST_11787,41,6,1269.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11788,180,3,441.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11789,192,5,560.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11790,149,3,1215.0,France,3,2,5,325,5. Clients Endormis / Perdus
+CUST_11791,145,5,377.0,Belgique,3,4,2,342,5. Clients Endormis / Perdus
+CUST_11792,11,5,500.0,France,5,4,3,543,2. Clients Fidèles
+CUST_11793,145,3,396.0,Belgique,3,2,2,322,5. Clients Endormis / Perdus
+CUST_11794,53,6,583.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11795,74,7,511.0,France,4,5,3,453,2. Clients Fidèles
+CUST_11796,143,6,1336.0,Belgique,3,4,5,345,2. Clients Fidèles
+CUST_11797,109,8,1109.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11798,165,2,224.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11799,120,4,266.0,France,4,3,1,431,5. Clients Endormis / Perdus
+CUST_11800,331,2,167.0,Canada,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11801,11,4,562.0,Belgique,5,3,3,533,2. Clients Fidèles
+CUST_11802,132,6,635.0,France,3,4,4,344,2. Clients Fidèles
+CUST_11803,130,2,198.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_11804,79,6,496.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11805,399,3,965.0,Suisse,1,2,5,125,4. À Risque (À relancer d'urgence)
+CUST_11806,315,3,522.0,Belgique,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_11807,9,2,229.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11808,205,11,966.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11809,180,6,580.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11810,409,4,340.0,Belgique,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11811,40,3,407.0,Belgique,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_11812,690,3,561.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_11813,785,2,246.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11814,266,4,619.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11815,26,7,840.0,Canada,5,5,4,554,1. Champions (VIP)
+CUST_11816,629,4,370.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11817,50,3,424.0,Belgique,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_11818,40,5,459.0,France,5,4,3,543,2. Clients Fidèles
+CUST_11819,37,2,485.0,France,5,1,3,513,3. Nouveaux / À Fort Potentiel
+CUST_11820,90,6,932.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11821,207,2,315.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_11822,330,6,1217.0,France,2,4,5,245,2. Clients Fidèles
+CUST_11823,11,6,347.0,Suisse,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11824,330,1,55.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11825,10,8,1023.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11826,237,7,1820.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11827,51,5,939.0,Canada,4,4,5,445,1. Champions (VIP)
+CUST_11828,402,4,592.0,Suisse,1,3,3,133,2. Clients Fidèles
+CUST_11829,18,4,800.0,France,5,3,4,534,2. Clients Fidèles
+CUST_11831,137,7,1260.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11832,25,6,1285.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11833,228,4,297.0,Belgique,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11834,320,4,388.0,Suisse,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11835,311,5,848.0,Belgique,2,4,4,244,2. Clients Fidèles
+CUST_11836,313,5,585.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11837,113,5,851.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11838,208,5,616.0,Canada,3,4,3,343,2. Clients Fidèles
+CUST_11839,32,5,725.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11840,43,5,682.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11841,45,5,332.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_11842,238,7,956.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11843,75,4,238.0,France,4,3,1,431,5. Clients Endormis / Perdus
+CUST_11844,3,4,458.0,Canada,5,3,3,533,2. Clients Fidèles
+CUST_11845,135,9,1149.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11846,48,5,677.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11847,304,7,722.0,France,2,5,4,254,2. Clients Fidèles
+CUST_11848,93,2,197.0,Luxembourg,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11849,404,3,577.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_11850,57,6,888.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11851,20,5,392.0,Suisse,5,4,2,542,5. Clients Endormis / Perdus
+CUST_11852,380,2,200.0,Suisse,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11853,133,7,1069.0,Suisse,3,5,5,355,2. Clients Fidèles
+CUST_11854,26,4,590.0,Luxembourg,5,3,3,533,2. Clients Fidèles
+CUST_11855,338,2,93.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11856,58,5,306.0,Belgique,4,4,2,442,5. Clients Endormis / Perdus
+CUST_11857,68,5,1577.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11858,15,4,384.0,Suisse,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11859,125,3,313.0,Belgique,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_11860,185,4,814.0,Suisse,3,3,4,334,2. Clients Fidèles
+CUST_11861,107,4,184.0,Belgique,4,3,1,431,5. Clients Endormis / Perdus
+CUST_11862,5,6,635.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11863,253,2,299.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_11864,91,4,423.0,Canada,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11865,47,4,283.0,Canada,4,3,2,432,5. Clients Endormis / Perdus
+CUST_11866,143,2,355.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_11867,283,3,464.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_11868,2,11,1852.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11869,111,6,969.0,Belgique,4,4,5,445,1. Champions (VIP)
+CUST_11870,27,2,260.0,Suisse,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11871,681,4,511.0,France,1,3,3,133,2. Clients Fidèles
+CUST_11872,15,5,859.0,France,5,4,4,544,1. Champions (VIP)
+CUST_11873,314,7,615.0,Suisse,2,5,3,253,2. Clients Fidèles
+CUST_11874,310,5,758.0,Belgique,2,4,4,244,2. Clients Fidèles
+CUST_11875,477,3,179.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11876,41,2,192.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11877,315,2,204.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11878,397,3,149.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11879,57,5,622.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11880,54,8,1149.0,Belgique,4,5,5,455,1. Champions (VIP)
+CUST_11881,258,5,915.0,Luxembourg,2,4,5,245,2. Clients Fidèles
+CUST_11882,391,2,485.0,France,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_11883,61,6,465.0,Belgique,4,4,3,443,2. Clients Fidèles
+CUST_11884,156,8,1551.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11885,393,3,253.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11886,32,6,967.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11887,46,4,597.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11888,331,4,308.0,Belgique,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11889,247,7,1231.0,Canada,3,5,5,355,2. Clients Fidèles
+CUST_11890,33,4,316.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11891,305,4,594.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11892,123,7,569.0,Suisse,4,5,3,453,2. Clients Fidèles
+CUST_11893,360,4,1045.0,France,2,3,5,235,2. Clients Fidèles
+CUST_11894,686,3,188.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11895,265,4,330.0,Belgique,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11896,283,3,304.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11897,34,3,320.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_11898,353,3,276.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11899,309,10,1065.0,Suisse,2,5,5,255,2. Clients Fidèles
+CUST_11900,38,3,594.0,France,5,2,3,523,3. Nouveaux / À Fort Potentiel
+CUST_11901,64,7,572.0,France,4,5,3,453,2. Clients Fidèles
+CUST_11902,308,6,792.0,Belgique,2,4,4,244,2. Clients Fidèles
+CUST_11903,432,2,217.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11904,13,9,526.0,Belgique,5,5,3,553,2. Clients Fidèles
+CUST_11905,46,5,444.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_11906,689,2,137.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11907,506,4,357.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11908,315,8,1269.0,France,2,5,5,255,2. Clients Fidèles
+CUST_11909,2,3,685.0,France,5,2,4,524,3. Nouveaux / À Fort Potentiel
+CUST_11910,17,8,1253.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11911,309,4,480.0,Luxembourg,2,3,3,233,2. Clients Fidèles
+CUST_11912,324,4,392.0,Canada,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_11913,215,8,1718.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11914,407,3,231.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_11915,76,7,865.0,Belgique,4,5,4,454,1. Champions (VIP)
+CUST_11916,156,6,880.0,Luxembourg,3,4,4,344,2. Clients Fidèles
+CUST_11917,194,4,427.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11918,347,2,162.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_11919,373,3,124.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_11920,266,6,1010.0,Belgique,2,4,5,245,2. Clients Fidèles
+CUST_11921,191,7,1255.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11922,13,4,556.0,France,5,3,3,533,2. Clients Fidèles
+CUST_11923,24,5,451.0,France,5,4,3,543,2. Clients Fidèles
+CUST_11924,187,5,327.0,Suisse,3,4,2,342,5. Clients Endormis / Perdus
+CUST_11925,695,2,340.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_11926,65,3,480.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_11927,4,3,273.0,France,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_11928,275,6,711.0,France,2,4,4,244,2. Clients Fidèles
+CUST_11929,512,2,70.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11930,120,5,927.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11931,379,3,343.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_11932,122,6,491.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11933,156,6,587.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11934,403,4,247.0,Belgique,1,3,1,131,4. À Risque (À relancer d'urgence)
+CUST_11935,98,10,1423.0,Suisse,4,5,5,455,1. Champions (VIP)
+CUST_11936,117,5,724.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11937,49,4,722.0,Suisse,4,3,4,434,2. Clients Fidèles
+CUST_11938,198,11,1478.0,France,3,5,5,355,2. Clients Fidèles
+CUST_11939,63,10,1384.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11940,163,6,886.0,France,3,4,4,344,2. Clients Fidèles
+CUST_11941,649,4,290.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11942,172,4,587.0,Suisse,3,3,3,333,2. Clients Fidèles
+CUST_11943,44,8,755.0,Belgique,4,5,4,454,1. Champions (VIP)
+CUST_11944,485,2,550.0,Suisse,1,1,3,113,4. À Risque (À relancer d'urgence)
+CUST_11945,50,5,1021.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11946,323,5,583.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11947,652,3,484.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_11948,80,8,1491.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11949,454,1,52.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11950,49,5,491.0,France,4,4,3,443,2. Clients Fidèles
+CUST_11951,101,8,744.0,France,4,5,4,454,1. Champions (VIP)
+CUST_11952,673,3,328.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11953,4,2,194.0,Belgique,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_11954,313,6,473.0,Canada,2,4,3,243,2. Clients Fidèles
+CUST_11955,129,8,612.0,Canada,3,5,3,353,2. Clients Fidèles
+CUST_11956,20,6,1094.0,France,5,4,5,545,1. Champions (VIP)
+CUST_11957,207,4,752.0,France,3,3,4,334,2. Clients Fidèles
+CUST_11958,26,4,464.0,France,5,3,3,533,2. Clients Fidèles
+CUST_11959,22,8,968.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_11960,451,2,206.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11961,187,5,852.0,France,3,4,4,344,2. Clients Fidèles
+CUST_11962,151,4,550.0,Suisse,3,3,3,333,2. Clients Fidèles
+CUST_11963,173,5,543.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11964,74,2,259.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_11965,13,8,1020.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11966,19,8,1051.0,France,5,5,5,555,1. Champions (VIP)
+CUST_11967,268,4,263.0,France,2,3,1,231,4. À Risque (À relancer d'urgence)
+CUST_11968,126,5,808.0,France,4,4,4,444,1. Champions (VIP)
+CUST_11969,280,7,371.0,France,2,5,2,252,4. À Risque (À relancer d'urgence)
+CUST_11970,203,4,435.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_11971,220,5,559.0,Suisse,3,4,3,343,2. Clients Fidèles
+CUST_11972,403,5,288.0,France,1,4,2,142,4. À Risque (À relancer d'urgence)
+CUST_11973,299,5,520.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11974,694,2,230.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_11975,65,5,460.0,Canada,4,4,3,443,2. Clients Fidèles
+CUST_11976,156,6,608.0,France,3,4,3,343,2. Clients Fidèles
+CUST_11978,19,6,830.0,Luxembourg,5,4,4,544,1. Champions (VIP)
+CUST_11979,13,6,1610.0,Suisse,5,4,5,545,1. Champions (VIP)
+CUST_11980,47,8,1190.0,France,4,5,5,455,1. Champions (VIP)
+CUST_11981,15,6,881.0,Suisse,5,4,4,544,1. Champions (VIP)
+CUST_11982,47,3,560.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_11983,328,4,279.0,France,2,3,1,231,4. À Risque (À relancer d'urgence)
+CUST_11984,111,4,462.0,France,4,3,3,433,2. Clients Fidèles
+CUST_11985,210,6,908.0,France,3,4,5,345,2. Clients Fidèles
+CUST_11986,327,6,1080.0,Belgique,2,4,5,245,2. Clients Fidèles
+CUST_11987,747,3,500.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_11988,421,8,1107.0,France,1,5,5,155,2. Clients Fidèles
+CUST_11989,150,2,576.0,Belgique,3,1,3,313,5. Clients Endormis / Perdus
+CUST_11990,21,4,445.0,Belgique,5,3,2,532,5. Clients Endormis / Perdus
+CUST_11991,92,6,979.0,France,4,4,5,445,1. Champions (VIP)
+CUST_11992,307,5,614.0,France,2,4,3,243,2. Clients Fidèles
+CUST_11993,281,4,529.0,France,2,3,3,233,2. Clients Fidèles
+CUST_11994,52,5,489.0,Belgique,4,4,3,443,2. Clients Fidèles
+CUST_11995,313,6,747.0,Belgique,2,4,4,244,2. Clients Fidèles
+CUST_11996,488,4,425.0,Canada,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_11997,403,3,373.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_11998,116,5,430.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_11999,208,5,597.0,France,3,4,3,343,2. Clients Fidèles
+CUST_12000,282,7,362.0,France,2,5,2,252,4. À Risque (À relancer d'urgence)
+CUST_12001,84,9,1078.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12002,155,3,277.0,Luxembourg,3,2,1,321,5. Clients Endormis / Perdus
+CUST_12003,321,2,338.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_12004,22,4,454.0,France,5,3,3,533,2. Clients Fidèles
+CUST_12006,434,2,355.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_12007,38,9,1259.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_12008,50,2,623.0,France,4,1,4,414,3. Nouveaux / À Fort Potentiel
+CUST_12009,53,5,479.0,France,4,4,3,443,2. Clients Fidèles
+CUST_12010,59,5,504.0,France,4,4,3,443,2. Clients Fidèles
+CUST_12011,911,1,170.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12012,145,4,362.0,Luxembourg,3,3,2,332,5. Clients Endormis / Perdus
+CUST_12013,1062,1,156.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12014,69,3,547.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_12015,59,5,467.0,France,4,4,3,443,2. Clients Fidèles
+CUST_12016,316,6,746.0,France,2,4,4,244,2. Clients Fidèles
+CUST_12017,100,7,655.0,Luxembourg,4,5,4,454,1. Champions (VIP)
+CUST_12018,104,4,350.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_12019,23,3,226.0,Belgique,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_12020,2,9,1579.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_12021,433,4,506.0,France,1,3,3,133,2. Clients Fidèles
+CUST_12022,231,5,902.0,Canada,3,4,5,345,2. Clients Fidèles
+CUST_12023,75,11,1134.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12024,385,2,200.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12025,177,6,892.0,France,3,4,4,344,2. Clients Fidèles
+CUST_12026,260,2,170.0,Belgique,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12027,85,6,389.0,Canada,4,4,2,442,5. Clients Endormis / Perdus
+CUST_12028,734,2,405.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_12029,20,5,1367.0,Belgique,5,4,5,545,1. Champions (VIP)
+CUST_12030,444,3,323.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_12031,327,4,440.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_12032,526,3,271.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12033,4,4,602.0,Canada,5,3,3,533,2. Clients Fidèles
+CUST_12034,38,10,972.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12035,306,4,312.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_12036,315,6,733.0,France,2,4,4,244,2. Clients Fidèles
+CUST_12037,106,5,847.0,France,4,4,4,444,1. Champions (VIP)
+CUST_12038,184,7,1182.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12039,34,6,674.0,France,5,4,4,544,1. Champions (VIP)
+CUST_12040,960,1,38.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12041,116,7,907.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12042,225,2,405.0,France,3,1,2,312,5. Clients Endormis / Perdus
+CUST_12043,488,4,1075.0,France,1,3,5,135,2. Clients Fidèles
+CUST_12044,49,4,567.0,Suisse,4,3,3,433,2. Clients Fidèles
+CUST_12045,310,5,556.0,Belgique,2,4,3,243,2. Clients Fidèles
+CUST_12046,411,2,736.0,France,1,1,4,114,4. À Risque (À relancer d'urgence)
+CUST_12047,409,2,151.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12048,343,2,107.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12049,73,4,741.0,France,4,3,4,434,2. Clients Fidèles
+CUST_12050,306,7,750.0,France,2,5,4,254,2. Clients Fidèles
+CUST_12051,234,7,1135.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12052,405,4,859.0,France,1,3,4,134,2. Clients Fidèles
+CUST_12053,346,5,633.0,Canada,2,4,4,244,2. Clients Fidèles
+CUST_12054,156,3,349.0,Suisse,3,2,2,322,5. Clients Endormis / Perdus
+CUST_12055,128,4,1320.0,Belgique,4,3,5,435,2. Clients Fidèles
+CUST_12056,21,5,773.0,France,5,4,4,544,1. Champions (VIP)
+CUST_12057,391,4,580.0,France,1,3,3,133,2. Clients Fidèles
+CUST_12058,4,6,1092.0,Belgique,5,4,5,545,1. Champions (VIP)
+CUST_12059,385,6,418.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_12060,22,9,907.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12061,328,4,376.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_12062,6,6,530.0,Suisse,5,4,3,543,2. Clients Fidèles
+CUST_12063,600,6,733.0,France,1,4,4,144,2. Clients Fidèles
+CUST_12064,51,8,1267.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12065,70,5,830.0,Suisse,4,4,4,444,1. Champions (VIP)
+CUST_12066,57,3,337.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_12067,164,5,394.0,France,3,4,2,342,5. Clients Endormis / Perdus
+CUST_12068,124,3,383.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_12069,304,4,692.0,France,2,3,4,234,2. Clients Fidèles
+CUST_12070,51,4,713.0,Belgique,4,3,4,434,2. Clients Fidèles
+CUST_12071,552,2,435.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_12072,113,3,472.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_12073,23,2,397.0,Luxembourg,5,1,2,512,3. Nouveaux / À Fort Potentiel
+CUST_12074,205,3,468.0,Luxembourg,3,2,3,323,5. Clients Endormis / Perdus
+CUST_12075,571,2,114.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12076,392,3,253.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12077,25,5,344.0,France,5,4,2,542,5. Clients Endormis / Perdus
+CUST_12078,40,6,332.0,Canada,5,4,2,542,5. Clients Endormis / Perdus
+CUST_12079,43,4,820.0,Suisse,5,3,4,534,2. Clients Fidèles
+CUST_12080,164,2,208.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_12081,518,3,217.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12082,79,6,749.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12083,331,5,1320.0,Luxembourg,2,4,5,245,2. Clients Fidèles
+CUST_12084,139,8,1325.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12085,53,8,924.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12086,41,7,1231.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12087,187,4,530.0,Belgique,3,3,3,333,2. Clients Fidèles
+CUST_12088,329,2,170.0,Suisse,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12089,185,7,622.0,France,3,5,4,354,2. Clients Fidèles
+CUST_12090,148,3,835.0,Suisse,3,2,4,324,5. Clients Endormis / Perdus
+CUST_12091,94,6,1095.0,Canada,4,5,5,455,1. Champions (VIP)
+CUST_12092,35,4,522.0,France,5,3,3,533,2. Clients Fidèles
+CUST_12093,232,9,1174.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12094,61,5,338.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_12095,268,3,325.0,Suisse,2,2,2,222,5. Clients Endormis / Perdus
+CUST_12096,58,9,1244.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12097,24,9,1777.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12098,26,6,1067.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_12099,353,3,273.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_12100,111,3,466.0,Luxembourg,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_12101,146,6,373.0,France,3,5,2,352,5. Clients Endormis / Perdus
+CUST_12102,291,4,874.0,France,2,3,4,234,2. Clients Fidèles
+CUST_12103,394,5,510.0,Belgique,1,4,3,143,2. Clients Fidèles
+CUST_12104,273,5,705.0,Suisse,2,4,4,244,2. Clients Fidèles
+CUST_12105,77,2,458.0,France,4,1,3,413,3. Nouveaux / À Fort Potentiel
+CUST_12106,331,5,730.0,Suisse,2,4,4,244,2. Clients Fidèles
+CUST_12107,13,3,262.0,Luxembourg,5,2,1,521,3. Nouveaux / À Fort Potentiel
+CUST_12108,311,7,619.0,France,2,5,3,253,2. Clients Fidèles
+CUST_12109,87,5,533.0,Canada,4,4,3,443,2. Clients Fidèles
+CUST_12110,164,8,1561.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12111,406,3,603.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_12112,65,4,350.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_12113,59,2,194.0,Luxembourg,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_12114,226,2,192.0,Belgique,3,1,1,311,5. Clients Endormis / Perdus
+CUST_12115,723,2,233.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12116,495,5,948.0,France,1,4,5,145,2. Clients Fidèles
+CUST_12117,97,5,1190.0,France,4,4,5,445,1. Champions (VIP)
+CUST_12118,55,3,231.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_12119,1055,2,263.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12120,5,6,660.0,Suisse,5,5,4,554,1. Champions (VIP)
+CUST_12121,387,3,450.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_12122,402,3,630.0,Canada,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_12123,139,4,585.0,France,3,3,3,333,2. Clients Fidèles
+CUST_12124,414,4,513.0,Canada,1,3,3,133,2. Clients Fidèles
+CUST_12125,403,3,308.0,Belgique,1,2,2,122,5. Clients Endormis / Perdus
+CUST_12127,118,6,509.0,France,4,5,3,453,2. Clients Fidèles
+CUST_12128,171,4,301.0,Luxembourg,3,3,2,332,5. Clients Endormis / Perdus
+CUST_12129,373,6,543.0,France,2,5,3,253,2. Clients Fidèles
+CUST_12130,456,4,204.0,France,1,3,1,131,4. À Risque (À relancer d'urgence)
+CUST_12131,272,4,840.0,France,2,3,4,234,2. Clients Fidèles
+CUST_12132,201,3,267.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_12133,278,2,725.0,France,2,1,4,214,4. À Risque (À relancer d'urgence)
+CUST_12134,530,4,1038.0,Belgique,1,3,5,135,2. Clients Fidèles
+CUST_12135,167,3,212.0,Luxembourg,3,2,1,321,5. Clients Endormis / Perdus
+CUST_12136,50,7,728.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12137,5,5,930.0,Belgique,5,4,5,545,1. Champions (VIP)
+CUST_12138,34,4,509.0,France,5,3,3,533,2. Clients Fidèles
+CUST_12139,246,5,971.0,Suisse,3,4,5,345,2. Clients Fidèles
+CUST_12140,422,4,465.0,Suisse,1,3,3,133,2. Clients Fidèles
+CUST_12141,378,1,96.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12142,122,3,422.0,Belgique,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_12143,675,2,114.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12144,63,6,891.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12145,90,5,378.0,Suisse,4,4,2,442,5. Clients Endormis / Perdus
+CUST_12146,42,3,341.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_12147,747,1,390.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_12148,101,4,659.0,France,4,3,4,434,2. Clients Fidèles
+CUST_12149,559,4,304.0,Suisse,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_12150,39,4,313.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_12151,508,3,244.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12152,186,7,1464.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_12153,175,4,404.0,Suisse,3,3,2,332,5. Clients Endormis / Perdus
+CUST_12154,89,8,1406.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12155,623,3,410.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_12156,326,6,677.0,France,2,5,4,254,2. Clients Fidèles
+CUST_12157,327,2,187.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12158,10,8,679.0,France,5,5,4,554,1. Champions (VIP)
+CUST_12159,73,4,783.0,Belgique,4,3,4,434,2. Clients Fidèles
+CUST_12160,112,4,460.0,Belgique,4,3,3,433,2. Clients Fidèles
+CUST_12161,187,6,656.0,France,3,5,4,354,2. Clients Fidèles
+CUST_12162,50,8,789.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12163,133,4,299.0,Suisse,3,3,2,332,5. Clients Endormis / Perdus
+CUST_12164,413,6,737.0,France,1,5,4,154,2. Clients Fidèles
+CUST_12165,146,4,440.0,Canada,3,3,2,332,5. Clients Endormis / Perdus
+CUST_12166,32,7,914.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12167,126,7,778.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12168,217,1,34.0,Belgique,3,1,1,311,5. Clients Endormis / Perdus
+CUST_12169,307,4,802.0,France,2,3,4,234,2. Clients Fidèles
+CUST_12170,66,5,493.0,Belgique,4,4,3,443,2. Clients Fidèles
+CUST_12171,2,11,1711.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12172,93,3,233.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_12173,397,3,360.0,Suisse,1,2,2,122,5. Clients Endormis / Perdus
+CUST_12174,53,4,363.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_12175,1,7,712.0,Suisse,5,5,4,554,1. Champions (VIP)
+CUST_12176,327,5,412.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_12177,73,4,443.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_12178,24,7,513.0,Belgique,5,5,3,553,2. Clients Fidèles
+CUST_12179,355,3,231.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_12180,25,9,991.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12181,2,5,538.0,France,5,4,3,543,2. Clients Fidèles
+CUST_12182,313,6,1247.0,France,2,5,5,255,2. Clients Fidèles
+CUST_12183,324,6,520.0,France,2,5,3,253,2. Clients Fidèles
+CUST_12184,56,6,538.0,Belgique,4,5,3,453,2. Clients Fidèles
+CUST_12185,327,7,945.0,Canada,2,5,5,255,2. Clients Fidèles
+CUST_12186,171,8,1411.0,Luxembourg,3,5,5,355,2. Clients Fidèles
+CUST_12187,104,7,1097.0,Belgique,4,5,5,455,1. Champions (VIP)
+CUST_12188,221,4,456.0,Suisse,3,3,3,333,2. Clients Fidèles
+CUST_12189,2,6,861.0,Belgique,5,5,4,554,1. Champions (VIP)
+CUST_12190,784,1,68.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12191,46,2,200.0,Luxembourg,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_12192,36,7,482.0,Belgique,5,5,3,553,2. Clients Fidèles
+CUST_12193,32,7,852.0,France,5,5,4,554,1. Champions (VIP)
+CUST_12194,733,2,116.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12195,292,3,221.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_12196,275,4,377.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_12197,324,7,1139.0,Suisse,2,5,5,255,2. Clients Fidèles
+CUST_12198,197,7,889.0,France,3,5,4,354,2. Clients Fidèles
+CUST_12199,322,5,380.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_12200,257,2,196.0,Canada,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12201,13,5,612.0,France,5,4,3,543,2. Clients Fidèles
+CUST_12202,255,4,543.0,France,3,3,3,333,2. Clients Fidèles
+CUST_12203,46,7,788.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12204,122,7,1135.0,Belgique,4,5,5,455,1. Champions (VIP)
+CUST_12205,471,5,595.0,Luxembourg,1,4,3,143,2. Clients Fidèles
+CUST_12206,99,4,474.0,France,4,3,3,433,2. Clients Fidèles
+CUST_12207,228,6,800.0,Suisse,3,5,4,354,2. Clients Fidèles
+CUST_12208,43,11,1498.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12209,218,4,784.0,Luxembourg,3,3,4,334,2. Clients Fidèles
+CUST_12210,182,5,656.0,Belgique,3,4,4,344,2. Clients Fidèles
+CUST_12211,124,6,632.0,Suisse,4,5,4,454,1. Champions (VIP)
+CUST_12212,208,3,260.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_12213,206,5,575.0,Canada,3,4,3,343,2. Clients Fidèles
+CUST_12214,379,4,452.0,Belgique,2,3,3,233,2. Clients Fidèles
+CUST_12215,198,8,929.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12216,62,3,425.0,Suisse,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_12217,391,2,625.0,France,1,1,4,114,4. À Risque (À relancer d'urgence)
+CUST_12218,187,5,380.0,Luxembourg,3,4,2,342,5. Clients Endormis / Perdus
+CUST_12219,205,9,1857.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12220,289,3,972.0,Belgique,2,2,5,225,4. À Risque (À relancer d'urgence)
+CUST_12221,166,7,1227.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12222,318,6,634.0,France,2,5,4,254,2. Clients Fidèles
+CUST_12223,130,5,863.0,France,3,4,4,344,2. Clients Fidèles
+CUST_12224,520,3,570.0,France,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_12225,6,2,70.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_12226,229,3,366.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_12227,66,8,761.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12228,699,2,750.0,France,1,1,4,114,4. À Risque (À relancer d'urgence)
+CUST_12229,286,5,330.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_12230,54,5,767.0,Belgique,4,4,4,444,1. Champions (VIP)
+CUST_12231,16,10,1041.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12232,75,5,475.0,Luxembourg,4,4,3,443,2. Clients Fidèles
+CUST_12233,62,3,306.0,Suisse,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_12234,196,6,657.0,Belgique,3,5,4,354,2. Clients Fidèles
+CUST_12235,291,7,1755.0,France,2,5,5,255,2. Clients Fidèles
+CUST_12236,31,4,482.0,Luxembourg,5,3,3,533,2. Clients Fidèles
+CUST_12237,194,5,460.0,France,3,4,3,343,2. Clients Fidèles
+CUST_12238,278,7,916.0,France,2,5,5,255,2. Clients Fidèles
+CUST_12239,110,2,208.0,France,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_12240,417,3,257.0,Suisse,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12241,40,7,612.0,France,5,5,3,553,2. Clients Fidèles
+CUST_12242,38,5,430.0,France,5,4,2,542,5. Clients Endormis / Perdus
+CUST_12243,23,6,998.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_12244,380,4,359.0,Suisse,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_12245,34,5,733.0,France,5,4,4,544,1. Champions (VIP)
+CUST_12246,255,2,100.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_12247,199,3,316.0,Suisse,3,2,2,322,5. Clients Endormis / Perdus
+CUST_12248,31,2,170.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_12249,24,4,483.0,France,5,3,3,533,2. Clients Fidèles
+CUST_12250,263,2,206.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12251,154,3,395.0,Luxembourg,3,2,2,322,5. Clients Endormis / Perdus
+CUST_12252,100,4,1010.0,Belgique,4,3,5,435,2. Clients Fidèles
+CUST_12254,83,4,411.0,Luxembourg,4,3,2,432,5. Clients Endormis / Perdus
+CUST_12255,68,5,1011.0,France,4,4,5,445,1. Champions (VIP)
+CUST_12256,382,5,406.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_12257,316,7,700.0,France,2,5,4,254,2. Clients Fidèles
+CUST_12258,179,7,522.0,France,3,5,3,353,2. Clients Fidèles
+CUST_12259,734,2,107.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12260,113,9,1101.0,Suisse,4,5,5,455,1. Champions (VIP)
+CUST_12261,405,1,68.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12262,165,5,387.0,Luxembourg,3,4,2,342,5. Clients Endormis / Perdus
+CUST_12263,320,6,557.0,France,2,5,3,253,2. Clients Fidèles
+CUST_12264,378,3,357.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_12265,144,5,1149.0,France,3,4,5,345,2. Clients Fidèles
+CUST_12266,8,3,435.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_12267,237,8,1012.0,Belgique,3,5,5,355,2. Clients Fidèles
+CUST_12268,165,5,435.0,France,3,4,2,342,5. Clients Endormis / Perdus
+CUST_12269,264,6,527.0,France,2,5,3,253,2. Clients Fidèles
+CUST_12270,61,5,945.0,France,4,4,5,445,1. Champions (VIP)
+CUST_12271,73,4,358.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_12272,394,3,226.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12273,2,6,579.0,Belgique,5,5,3,553,2. Clients Fidèles
+CUST_12274,419,3,118.0,Canada,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12275,290,6,1216.0,France,2,5,5,255,2. Clients Fidèles
+CUST_12276,237,4,333.0,Belgique,3,3,2,332,5. Clients Endormis / Perdus
+CUST_12277,207,4,184.0,France,3,3,1,331,5. Clients Endormis / Perdus
+CUST_12278,46,9,986.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12279,75,5,318.0,France,4,4,2,442,5. Clients Endormis / Perdus
+CUST_12280,237,4,547.0,France,3,3,3,333,2. Clients Fidèles
+CUST_12281,369,5,379.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_12282,51,5,885.0,France,4,4,4,444,1. Champions (VIP)
+CUST_12283,117,4,345.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_12284,235,6,662.0,France,3,5,4,354,2. Clients Fidèles
+CUST_12285,694,4,396.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_12286,27,6,1448.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_12287,297,5,645.0,France,2,4,4,244,2. Clients Fidèles
+CUST_12288,330,6,927.0,France,2,5,5,255,2. Clients Fidèles
+CUST_12289,358,6,1095.0,France,2,5,5,255,2. Clients Fidèles
+CUST_12290,137,4,499.0,France,3,3,3,333,2. Clients Fidèles
+CUST_12291,27,7,689.0,France,5,5,4,554,1. Champions (VIP)
+CUST_12292,366,2,238.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12293,37,4,673.0,France,5,3,4,534,2. Clients Fidèles
+CUST_12294,435,1,136.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12295,63,3,492.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_12296,211,5,238.0,France,3,4,1,341,5. Clients Endormis / Perdus
+CUST_12297,676,1,128.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12298,109,3,272.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_12299,81,6,593.0,France,4,5,3,453,2. Clients Fidèles
+CUST_12300,165,5,599.0,Suisse,3,4,3,343,2. Clients Fidèles
+CUST_12301,409,7,1107.0,France,1,5,5,155,2. Clients Fidèles
+CUST_12302,533,4,346.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_12303,316,5,500.0,France,2,4,3,243,2. Clients Fidèles
+CUST_12304,40,7,1258.0,Canada,5,5,5,555,1. Champions (VIP)
+CUST_12305,824,2,146.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12306,390,5,718.0,France,1,4,4,144,2. Clients Fidèles
+CUST_12307,258,2,263.0,France,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12308,79,5,871.0,France,4,4,4,444,1. Champions (VIP)
+CUST_12309,139,5,304.0,France,3,4,2,342,5. Clients Endormis / Perdus
+CUST_12310,71,6,674.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12311,245,4,735.0,Luxembourg,3,3,4,334,2. Clients Fidèles
+CUST_12312,386,2,326.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_12313,64,3,296.0,Belgique,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_12314,324,6,1187.0,Canada,2,5,5,255,2. Clients Fidèles
+CUST_12315,18,9,1612.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12316,300,4,229.0,France,2,3,1,231,4. À Risque (À relancer d'urgence)
+CUST_12317,410,2,186.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12318,331,7,910.0,France,2,5,5,255,2. Clients Fidèles
+CUST_12319,489,6,584.0,France,1,5,3,153,2. Clients Fidèles
+CUST_12320,185,3,721.0,Luxembourg,3,2,4,324,5. Clients Endormis / Perdus
+CUST_12321,302,9,1198.0,Belgique,2,5,5,255,2. Clients Fidèles
+CUST_12322,1040,1,34.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12323,244,6,1079.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12324,397,3,470.0,Suisse,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_12325,734,1,195.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12326,331,4,713.0,Suisse,2,3,4,234,2. Clients Fidèles
+CUST_12327,260,3,443.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_12328,207,3,227.0,France,3,2,1,321,5. Clients Endormis / Perdus
+CUST_12329,389,2,133.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12330,717,3,259.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12331,20,5,876.0,France,5,4,4,544,1. Champions (VIP)
+CUST_12332,24,2,84.0,France,5,1,1,511,3. Nouveaux / À Fort Potentiel
+CUST_12333,212,4,865.0,Belgique,3,3,4,334,2. Clients Fidèles
+CUST_12334,687,2,120.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12335,215,3,498.0,France,3,2,3,323,5. Clients Endormis / Perdus
+CUST_12336,416,5,452.0,France,1,4,3,143,2. Clients Fidèles
+CUST_12337,125,5,464.0,France,4,4,3,443,2. Clients Fidèles
+CUST_12338,210,2,255.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_12339,378,6,1438.0,France,2,5,5,255,2. Clients Fidèles
+CUST_12340,320,5,481.0,Belgique,2,4,3,243,2. Clients Fidèles
+CUST_12341,51,3,330.0,France,4,2,2,422,3. Nouveaux / À Fort Potentiel
+CUST_12342,64,2,610.0,France,4,1,3,413,3. Nouveaux / À Fort Potentiel
+CUST_12343,74,5,1237.0,France,4,4,5,445,1. Champions (VIP)
+CUST_12344,78,5,383.0,Canada,4,4,2,442,5. Clients Endormis / Perdus
+CUST_12345,314,5,522.0,Belgique,2,4,3,243,2. Clients Fidèles
+CUST_12346,10,5,578.0,Belgique,5,4,3,543,2. Clients Fidèles
+CUST_12347,390,5,301.0,France,1,4,2,142,4. À Risque (À relancer d'urgence)
+CUST_12348,328,2,520.0,France,2,1,3,213,4. À Risque (À relancer d'urgence)
+CUST_12349,178,6,796.0,France,3,5,4,354,2. Clients Fidèles
+CUST_12350,329,7,1003.0,France,2,5,5,255,2. Clients Fidèles
+CUST_12351,287,5,1299.0,Luxembourg,2,4,5,245,2. Clients Fidèles
+CUST_12352,18,5,1699.0,France,5,4,5,545,1. Champions (VIP)
+CUST_12353,69,10,665.0,Luxembourg,4,5,4,454,1. Champions (VIP)
+CUST_12354,647,2,123.0,Belgique,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12355,21,5,547.0,France,5,4,3,543,2. Clients Fidèles
+CUST_12356,389,6,925.0,Luxembourg,1,5,5,155,2. Clients Fidèles
+CUST_12357,50,6,1025.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12358,19,10,1414.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12359,13,8,808.0,France,5,5,4,554,1. Champions (VIP)
+CUST_12360,185,7,1119.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12361,58,5,455.0,France,4,4,3,443,2. Clients Fidèles
+CUST_12362,264,6,783.0,France,2,5,4,254,2. Clients Fidèles
+CUST_12363,373,3,594.0,France,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_12364,208,7,1255.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12365,3,4,345.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_12366,857,1,38.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12367,373,5,1223.0,France,2,4,5,245,2. Clients Fidèles
+CUST_12368,1011,1,195.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12369,162,3,304.0,Belgique,3,2,2,322,5. Clients Endormis / Perdus
+CUST_12370,85,1,55.0,Belgique,4,1,1,411,3. Nouveaux / À Fort Potentiel
+CUST_12371,19,6,543.0,Suisse,5,5,3,553,2. Clients Fidèles
+CUST_12372,175,2,102.0,Belgique,3,1,1,311,5. Clients Endormis / Perdus
+CUST_12373,388,4,555.0,France,1,3,3,133,2. Clients Fidèles
+CUST_12374,473,3,528.0,Belgique,1,2,3,123,4. À Risque (À relancer d'urgence)
+CUST_12375,403,5,1107.0,France,1,4,5,145,2. Clients Fidèles
+CUST_12376,457,2,213.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12377,317,5,484.0,Suisse,2,4,3,243,2. Clients Fidèles
+CUST_12378,226,7,681.0,France,3,5,4,354,2. Clients Fidèles
+CUST_12379,327,4,859.0,Suisse,2,3,4,234,2. Clients Fidèles
+CUST_12380,19,5,1259.0,Suisse,5,4,5,545,1. Champions (VIP)
+CUST_12381,447,4,436.0,Suisse,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_12382,591,3,778.0,Luxembourg,1,2,4,124,4. À Risque (À relancer d'urgence)
+CUST_12383,194,5,659.0,France,3,4,4,344,2. Clients Fidèles
+CUST_12384,95,3,584.0,France,4,2,3,423,3. Nouveaux / À Fort Potentiel
+CUST_12385,306,3,378.0,France,2,2,2,222,5. Clients Endormis / Perdus
+CUST_12386,70,8,1178.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12387,380,6,537.0,France,2,5,3,253,2. Clients Fidèles
+CUST_12388,171,4,720.0,Belgique,3,3,4,334,2. Clients Fidèles
+CUST_12389,4,4,187.0,Belgique,5,3,1,531,5. Clients Endormis / Perdus
+CUST_12390,93,6,769.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12391,323,5,804.0,France,2,4,4,244,2. Clients Fidèles
+CUST_12392,155,5,527.0,France,3,4,3,343,2. Clients Fidèles
+CUST_12393,241,7,696.0,France,3,5,4,354,2. Clients Fidèles
+CUST_12394,293,3,376.0,Luxembourg,2,2,2,222,5. Clients Endormis / Perdus
+CUST_12395,71,8,605.0,France,4,5,3,453,2. Clients Fidèles
+CUST_12396,37,6,1152.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12397,677,3,408.0,France,1,2,2,122,5. Clients Endormis / Perdus
+CUST_12398,153,5,580.0,France,3,4,3,343,2. Clients Fidèles
+CUST_12399,18,8,829.0,France,5,5,4,554,1. Champions (VIP)
+CUST_12400,7,6,1196.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12401,84,3,225.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_12402,740,1,55.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12403,155,3,625.0,France,3,2,4,324,5. Clients Endormis / Perdus
+CUST_12405,47,4,256.0,France,4,3,1,431,5. Clients Endormis / Perdus
+CUST_12406,368,5,384.0,France,2,4,2,242,4. À Risque (À relancer d'urgence)
+CUST_12407,39,8,1218.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12408,386,2,390.0,Canada,2,1,2,212,5. Clients Endormis / Perdus
+CUST_12409,37,6,722.0,France,5,5,4,554,1. Champions (VIP)
+CUST_12410,344,4,369.0,Belgique,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_12411,163,4,299.0,France,3,3,2,332,5. Clients Endormis / Perdus
+CUST_12412,424,3,171.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12413,16,4,300.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_12414,388,3,125.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12415,302,3,132.0,Canada,2,2,1,221,5. Clients Endormis / Perdus
+CUST_12416,81,7,685.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12417,25,4,318.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_12418,160,7,621.0,France,3,5,4,354,2. Clients Fidèles
+CUST_12419,26,8,949.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12420,169,4,615.0,France,3,3,3,333,2. Clients Fidèles
+CUST_12421,202,6,1281.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12422,188,6,758.0,Belgique,3,5,4,354,2. Clients Fidèles
+CUST_12423,379,1,290.0,France,2,1,2,212,5. Clients Endormis / Perdus
+CUST_12424,167,3,586.0,France,3,2,3,323,5. Clients Endormis / Perdus
+CUST_12425,87,7,1031.0,Luxembourg,4,5,5,455,1. Champions (VIP)
+CUST_12426,406,2,90.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12427,225,5,719.0,Canada,3,4,4,344,2. Clients Fidèles
+CUST_12428,399,1,52.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12429,1079,1,115.0,Luxembourg,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12430,20,8,810.0,France,5,5,4,554,1. Champions (VIP)
+CUST_12431,51,6,1423.0,Suisse,4,5,5,455,1. Champions (VIP)
+CUST_12432,326,3,280.0,Canada,2,2,1,221,5. Clients Endormis / Perdus
+CUST_12433,77,6,652.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12434,753,2,107.0,Canada,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12435,610,2,116.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12436,246,5,743.0,France,3,4,4,344,2. Clients Fidèles
+CUST_12437,149,8,1293.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12438,55,5,528.0,France,4,4,3,443,2. Clients Fidèles
+CUST_12439,44,7,926.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12440,148,6,438.0,France,3,5,2,352,5. Clients Endormis / Perdus
+CUST_12441,388,7,789.0,France,1,5,4,154,2. Clients Fidèles
+CUST_12442,180,4,676.0,Belgique,3,3,4,334,2. Clients Fidèles
+CUST_12443,240,8,795.0,Suisse,3,5,4,354,2. Clients Fidèles
+CUST_12444,9,4,301.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_12445,99,6,918.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12446,502,2,128.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12447,383,5,1005.0,France,2,4,5,245,2. Clients Fidèles
+CUST_12448,17,5,765.0,France,5,4,4,544,1. Champions (VIP)
+CUST_12449,14,6,1046.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12450,6,4,407.0,France,5,3,2,532,5. Clients Endormis / Perdus
+CUST_12451,312,4,892.0,Canada,2,3,4,234,2. Clients Fidèles
+CUST_12452,58,3,202.0,France,4,2,1,421,3. Nouveaux / À Fort Potentiel
+CUST_12453,771,2,358.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_12454,309,4,332.0,France,2,3,2,232,4. À Risque (À relancer d'urgence)
+CUST_12455,19,3,383.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_12456,363,4,810.0,France,2,3,4,234,2. Clients Fidèles
+CUST_12457,566,4,233.0,France,1,3,1,131,4. À Risque (À relancer d'urgence)
+CUST_12458,99,4,312.0,France,4,3,2,432,5. Clients Endormis / Perdus
+CUST_12459,253,6,926.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12460,324,3,452.0,Canada,2,2,3,223,4. À Risque (À relancer d'urgence)
+CUST_12461,265,2,204.0,Luxembourg,2,1,1,211,5. Clients Endormis / Perdus
+CUST_12462,509,4,399.0,France,1,3,2,132,4. À Risque (À relancer d'urgence)
+CUST_12463,671,2,76.0,France,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12464,3,6,673.0,France,5,5,4,554,1. Champions (VIP)
+CUST_12465,230,2,228.0,France,3,1,1,311,5. Clients Endormis / Perdus
+CUST_12466,59,12,1494.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12467,10,6,602.0,France,5,5,3,553,2. Clients Fidèles
+CUST_12468,109,10,1504.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12469,149,5,733.0,France,3,4,4,344,2. Clients Fidèles
+CUST_12470,22,10,2129.0,France,5,5,5,555,1. Champions (VIP)
+CUST_12471,92,6,932.0,Canada,4,5,5,455,1. Champions (VIP)
+CUST_12472,393,4,559.0,Luxembourg,1,3,3,133,2. Clients Fidèles
+CUST_12473,59,2,467.0,Belgique,4,1,3,413,3. Nouveaux / À Fort Potentiel
+CUST_12474,593,2,383.0,France,1,1,2,112,5. Clients Endormis / Perdus
+CUST_12475,151,6,799.0,Suisse,3,5,4,354,2. Clients Fidèles
+CUST_12476,346,3,171.0,France,2,2,1,221,5. Clients Endormis / Perdus
+CUST_12477,268,3,364.0,Suisse,2,2,2,222,5. Clients Endormis / Perdus
+CUST_12478,130,4,463.0,France,3,3,3,333,2. Clients Fidèles
+CUST_12479,37,11,1008.0,Suisse,5,5,5,555,1. Champions (VIP)
+CUST_12480,611,3,238.0,France,1,2,1,121,5. Clients Endormis / Perdus
+CUST_12481,15,4,582.0,Luxembourg,5,3,3,533,2. Clients Fidèles
+CUST_12482,318,4,1155.0,Canada,2,3,5,235,2. Clients Fidèles
+CUST_12483,157,6,591.0,France,3,5,3,353,2. Clients Fidèles
+CUST_12485,153,2,243.0,Canada,3,1,1,311,5. Clients Endormis / Perdus
+CUST_12486,110,5,585.0,France,4,4,3,443,2. Clients Fidèles
+CUST_12487,603,2,275.0,Suisse,1,1,1,111,5. Clients Endormis / Perdus
+CUST_12488,241,3,313.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_12489,1,3,285.0,France,5,2,2,522,3. Nouveaux / À Fort Potentiel
+CUST_12490,54,11,1374.0,France,4,5,5,455,1. Champions (VIP)
+CUST_12491,188,11,1059.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12492,315,5,725.0,Belgique,2,4,4,244,2. Clients Fidèles
+CUST_12493,48,6,809.0,France,4,5,4,454,1. Champions (VIP)
+CUST_12494,205,3,443.0,France,3,2,2,322,5. Clients Endormis / Perdus
+CUST_12495,237,7,1545.0,France,3,5,5,355,2. Clients Fidèles
+CUST_12496,231,6,780.0,France,3,5,4,354,2. Clients Fidèles
+CUST_12497,370,4,853.0,Suisse,2,3,4,234,2. Clients Fidèles
+CUST_12498,143,7,1798.0,Canada,3,5,5,355,2. Clients Fidèles
+CUST_12499,67,6,621.0,France,4,5,4,454,1. Champions (VIP)
